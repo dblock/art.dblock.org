@@ -1,6 +1,6 @@
 title: art.dblock.org | art blog
 locale: en_US
-url:
+url: http://art.dblock.org
 markdown: kramdown
 highlighter: pygments
 sass:
