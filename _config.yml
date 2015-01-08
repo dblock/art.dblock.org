@@ -13,7 +13,7 @@ kramdown:
 owner:
   name:
   avatar: blog.gif
-  bio: "sanguines, conté crayon, photography"
+  bio: "sanguines, conté crayon, photography, private collection and anything art related"
   email: dblock@dblock.org
   disqus-shortname: dblockdotorg-art
   twitter: dblockdotorg
@@ -37,5 +37,5 @@ owner:
   dribbble:
   youtube:
   soundcloud:
-paginate: 10
+paginate: 35
 google_custom_search:
