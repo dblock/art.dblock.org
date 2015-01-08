@@ -1,0 +1,41 @@
+title: art.dblock.org | art blog
+locale: en_US
+url:
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+kramdown:
+  input: GFM
+owner:
+  name:
+  avatar: blog.gif
+  bio: "sanguines, conté crayon, photography"
+  email: dblock@dblock.org
+  disqus-shortname: dblockdotorg
+  twitter: dblockdotorg
+  facebook:
+  google:
+    plus:
+    analytics: UA-4756101-4
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github:
+  stackoverflow:
+  linkedin:
+  instagram: dblockdotorg
+  lastfm:
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+  youtube:
+  soundcloud:
+paginate: 10
+google_custom_search:
