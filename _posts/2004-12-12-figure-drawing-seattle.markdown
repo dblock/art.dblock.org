@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Figure Drawing, Seattle"
-date: 2005-12-12 12:21:00
+date: 2004-11-12 12:21:00
 tags: [figure drawing, sanguine]
 comments: true
 ---

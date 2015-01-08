@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Framed Sanguine, Hong Kong"
-date: 2006-12-12 12:21:00
+date: 2007-11-16 12:21:00
 tags: [drawing, sanguine]
 comments: true
 ---
