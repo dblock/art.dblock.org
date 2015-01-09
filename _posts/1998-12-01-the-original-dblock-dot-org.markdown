@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Original Dblock.org Landings"
-date: 1998-12-01 12:21:00
+date: 1998-12-01
+
 tags: [digital, web]
 comments: true
 ---

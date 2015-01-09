@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Friday Harbor, San Juan Islands"
-date: 2004-08-14 12:21:00
+date: 2004-08-14
+
 tags: [photography, seattle]
 comments: true
 ---

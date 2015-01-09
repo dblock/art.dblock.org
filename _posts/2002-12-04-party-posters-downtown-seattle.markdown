@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Dazzle & Eyeball Party Posters from Downtown Seattle"
-date: 2002-12-04 12:21:00
+date: 2002-12-04
+
 tags: [posters, digital, seattle]
 comments: true
 ---

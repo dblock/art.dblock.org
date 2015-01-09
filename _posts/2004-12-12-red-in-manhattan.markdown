@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Red in Manhattan"
-date: 2004-12-12 12:21:00
+date: 2004-12-12
+
 tags: [photography, new york]
 comments: true
 ---

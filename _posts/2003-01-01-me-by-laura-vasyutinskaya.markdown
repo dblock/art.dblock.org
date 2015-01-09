@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Me by Laura Vasyutinskaya"
-date: 2003-01-01 12:21:00
+date: 2003-01-01
+
 tags: [acrylic, private collection]
 comments: true
 ---

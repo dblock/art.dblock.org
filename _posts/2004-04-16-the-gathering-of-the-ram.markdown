@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Gathering of the Ram, Seattle"
-date: 2004-07-26 12:21:00
+date: 2004-07-26
+
 tags: [posters, digital, space virgins]
 comments: true
 ---

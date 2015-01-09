@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Prudential Loft"
-date: 2002-07-07 12:21:00
+date: 2002-07-07
+
 tags: [loft, seattle]
 comments: true
 ---

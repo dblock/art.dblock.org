@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Rapture, a Space Virgin Party, Seattle"
-date: 2003-07-26 12:21:00
+date: 2003-07-26
+
 tags: [posters, digital, space virgins]
 comments: true
 ---

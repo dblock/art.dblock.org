@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Brooklyn"
+date: 2005-04-17
+tags: [photos, brooklyn]
+comments: true
+---
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0099.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0105.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0107.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0108.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0110.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0119.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0124.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0139.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0152.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0156.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0178.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0197.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0198.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0204.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0207.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0209.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0210.JPG)
+
+![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0098.JPG)

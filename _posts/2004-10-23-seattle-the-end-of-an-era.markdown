@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seattle, The End of an Era"
-date: 2004-10-23 12:21:00
+date: 2004-10-23
+
 tags: [posters, digital, space virgins]
 comments: true
 ---

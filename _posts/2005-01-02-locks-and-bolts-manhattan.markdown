@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Locks and Bolts, Manhattan"
-date: 2005-01-02 12:21:00
+date: 2005-01-02
+
 tags: [photography, new york city]
 comments: true
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Corridor Make Out"
-date: 2004-04-10 12:21:00
+date: 2004-04-10
+
 tags: [photography, people]
 comments: true
 ---

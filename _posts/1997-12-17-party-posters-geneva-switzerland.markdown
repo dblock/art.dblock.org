@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Party Posters from Geneva, Switzerland"
-date: 1997-12-17 12:21:00
+date: 1997-12-17
+
 tags: [posters, digital]
 comments: true
 ---

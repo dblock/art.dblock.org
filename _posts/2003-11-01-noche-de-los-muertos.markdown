@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Noche de Los Muertos, Seattle"
-date: 2003-11-01 12:21:00
+date: 2003-11-01
+
 tags: [posters, digital, space virgins]
 comments: true
 ---

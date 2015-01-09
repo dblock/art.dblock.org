@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Freemont Parade Mondrian Tableau 1 and 2 Body Painting"
-date: 2003-06-21 12:21:00
+date: 2003-06-21
+
 tags: [body painting, freemont parade]
 comments: true
 ---

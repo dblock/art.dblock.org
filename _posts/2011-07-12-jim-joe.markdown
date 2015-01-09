@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Jim Joe"
+date: 2011-07-12
+tags: [jim joe, private collection]
+comments: true
+---
+![]({{ site.url }}/images/posts/2011-07-12-jim-joe/2011-05-01-21.59.12.jpg)
+
+![]({{ site.url }}/images/posts/2011-07-12-jim-joe/2011-07-12-21.10.33.jpg)
+

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "HeartBeat Party Posters from Pioneer Square, Seattle"
-date: 2003-12-12 12:21:00
+date: 2003-12-12
+
 tags: [posters, digital, space virgins]
 comments: true
 ---

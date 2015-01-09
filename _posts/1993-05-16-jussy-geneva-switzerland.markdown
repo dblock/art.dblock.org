@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Watercolor from Jussy, Geneva, Switzerland"
-date: 1993-05-16 12:21:00
+date: 1993-05-16
+
 tags: [watercolors]
 comments: true
 ---

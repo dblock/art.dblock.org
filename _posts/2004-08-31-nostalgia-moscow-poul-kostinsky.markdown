@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Moscow Nostalgia by Poul A. Costinsky"
-date: 2004-08-31 12:21:00
+date: 2004-08-31
+
 tags: [photography, moscow, private collection]
 comments: true
 ---

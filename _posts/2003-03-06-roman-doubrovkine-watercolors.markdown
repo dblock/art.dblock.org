@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Roman Doubrovkine: Watercolors"
-date: 2003-03-06 12:21:00
+date: 2003-03-06
+
 tags: [watercolors, private collection]
 comments: true
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seattle by Night"
-date: 2004-06-14 12:21:00
+date: 2004-06-14
+
 tags: [photography, seattle]
 comments: true
 ---

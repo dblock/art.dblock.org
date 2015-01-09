@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Red Stripe Art Walk, Pioneer Square, Seattle"
-date: 2003-12-04 12:21:00
+date: 2003-12-04
+
 tags: [digital, flyers]
 comments: true
 ---

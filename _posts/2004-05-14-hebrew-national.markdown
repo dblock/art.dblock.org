@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Hebrew National"
-date: 2004-02-05 12:21:00
+date: 2004-02-05
+
 tags: [photos, me me]
 comments: true
 ---

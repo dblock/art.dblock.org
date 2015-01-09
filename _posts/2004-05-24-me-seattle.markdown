@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Me in Seattle by Poul A. Costinsky"
-date: 2004-05-24 12:21:00
+date: 2004-05-24
+
 tags: [photos, me me]
 comments: true
 ---

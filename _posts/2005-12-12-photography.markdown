@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Misc Photography Favorites"
-date: 2005-12-12 12:21:00
+date: 2005-12-12
+
 tags: [photography, digital]
 comments: true
 ---
