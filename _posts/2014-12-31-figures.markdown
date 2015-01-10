@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Selected Figure Drawing"
+date: 2014-12-31
+tags: [drawing, sanguine, pastel]
+comments: true
+---
+![]({{ site.url }}/images/posts/2014-12-31-figures/DSC_4565.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/DSC_5335.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/DSC_9685.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/DSC_9690.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_0791.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_0842.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_0864.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_0865.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_0883.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_1000.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_1001.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_1407.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_1430.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_1576.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_1656.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_2385.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_2517.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_3044.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_3128.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_3385.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_3725.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_3726.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_4031.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_4099.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_4101.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_4288.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_4919.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_7410.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_7411.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_7412.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_7413.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/IMG_7414.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/raven-army-7-Oct-2002.jpg)
+
+![]({{ site.url }}/images/posts/2014-12-31-figures/raven-violin-19-Aug-2002.jpg)
+
