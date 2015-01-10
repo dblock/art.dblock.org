@@ -12,7 +12,13 @@ _I believe that color often hides the essence of a person, that it exists merely
 
 This blog catalogues my own works, works in my collection and some art-related topics.
 
+<div class='license'>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+</div>
+
+Unless otherwise specified, all work on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Basically you can use my images with attribution for non-commercial work. For anything else, please <a href="mailto:dblock@dblock.org">e-mail me</a>.
+
 I rarely post here these days, you can follow me on [Instagram](http://instagram.com/dblockdotorg) or [Twitter](https://twitter.com/dblockdotorg). Finally, if you had enough of the art, my tech blog is [here](http://code.dblock.org).
 
 ![]({{ site.url }}/images/about/mebyj.png)
-photo collage (c) Josh Sellers
+This is, indeed, me. Photo collage (c) Josh Sellers
