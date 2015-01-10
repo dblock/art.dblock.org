@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Can of Sardines"
+date: 2006-03-10
+tags: [photos, food, sardines]
+comments: true
+---
+![]({{ site.url }}/images/posts/2006-03-10-sardines/DSC_7573.jpg)
+
+![]({{ site.url }}/images/posts/2006-03-10-sardines/DSC_7576.jpg)
+

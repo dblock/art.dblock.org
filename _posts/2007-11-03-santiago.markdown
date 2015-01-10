@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Santiago, Chile"
+date: 2007-11-03
+tags: [photos, santiago, chile]
+comments: true
+---
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6388.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6393.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6396.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6399.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6401.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6406.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6409.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6419.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6496.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6528.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6530.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6545.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6587.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6650.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6652.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6661.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6880.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6884.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6886.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6887.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6918.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6921.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6924.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6925.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6931.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6933.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6935.jpg)
+
+![]({{ site.url }}/images/posts/2007-11-03-santiago/DSC_6957.jpg)
+
