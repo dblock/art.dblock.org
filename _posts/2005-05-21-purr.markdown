@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Purr"
+date: 2005-05-21
+tags: [drawing, sanguine]
+comments: true
+---
+![]({{ site.url }}/images/posts/2005-05-21-purr/DSC_1779.JPG)
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Surfing on Nantucket"
+date: 2005-08-15
+tags: [surfing, photos]
+comments: true
+---
+![]({{ site.url }}/images/posts/2005-08-15-surfer/DSC_8621.jpg)
+
