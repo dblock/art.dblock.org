@@ -37,4 +37,4 @@ comments: true
 
 ![]({{ site.url }}/images/posts/2015-01-01-large-sanguine-drawings/DSC_9942.jpg)
 
-![]({{ site.url }}/images/posts/2015-01-01-large-sanguine-drawings/DSC_1782.jpg)
+![]({{ site.url }}/images/posts/2015-01-01-large-sanguine-drawings/DSC_1782.JPG)
