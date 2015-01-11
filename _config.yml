@@ -11,7 +11,7 @@ gems:
 kramdown:
   input: GFM
 owner:
-  name:
+  name: "Daniel Doubrovkine"
   avatar: blog.gif
   bio: "sanguines, conté crayon, photography, private collection and anything art related"
   email: dblock@dblock.org
