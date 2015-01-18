@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Covers"
+date: 2013-10-20
+tags: [electronic music]
+comments: true
+---
+Saw an awesome off-Broadway play a couple of weeks ago, [Covers](http://www.nationalyiddishtheatre.org/productions/covers).
+
+> “An engaging psychological work of theater, COVERS paints a revealing portrait of an unusual family, while exploring the difficult choices made that have defined their pasts and are destined to influence their futures.”
