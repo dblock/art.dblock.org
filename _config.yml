@@ -1,6 +1,6 @@
 title: art.dblock.org | art blog
 locale: en_US
-url:
+url: http://art.dblock.org
 markdown: kramdown
 highlighter: pygments
 sass:
@@ -13,7 +13,7 @@ kramdown:
 owner:
   name: "Daniel Doubrovkine"
   avatar: blog.gif
-  bio: "sanguines, conté crayon, photography, private collection and anything art related"
+  bio: "sanguines, conté crayon, photography, private collection, theatre and everything else art related"
   email: dblock@dblock.org
   disqus-shortname: dblockdotorg-art
   twitter: dblockdotorg
