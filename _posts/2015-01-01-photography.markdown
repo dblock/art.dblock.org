@@ -4,6 +4,7 @@ title: "Photography Favorites"
 date: 2015-01-01
 tags: [photography, digital]
 comments: true
+pinned: true
 ---
 I used to carry a camera with me at all times.
 

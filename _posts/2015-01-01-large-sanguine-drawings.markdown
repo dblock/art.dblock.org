@@ -4,6 +4,7 @@ title: "Large Sanguine Drawings"
 date: 2015-01-02
 tags: [drawing, sanguine]
 comments: true
+pinned: true
 ---
 ![]({{ site.url }}/images/posts/2015-01-01-large-sanguine-drawings/IMG_8090.jpg)
 

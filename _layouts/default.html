@@ -19,6 +19,9 @@
     {% include _search.html %}
     {% include _license.html %}
   </div>
+  {% if paginator.page == 1 %}
+    {% include _pinned.html %}
+  {% endif %}
   <div id="index">
     {{ content }}
   </div><!-- /#index -->

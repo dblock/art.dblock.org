@@ -2,9 +2,9 @@
 layout: post
 title: "Music Shows Photography Favorites"
 date: 2015-01-01
-
 tags: [posters, digital, space virgins]
 comments: true
+pinned: true
 ---
 Around 2005 I freelanced a bit taking photos at music and club venues.
 
