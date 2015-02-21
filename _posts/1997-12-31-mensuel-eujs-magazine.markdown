@@ -6,13 +6,7 @@ date: 1997-12-31
 tags: [digital, web]
 comments: true
 ---
-![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.oct97.cover_big.jpg)
-
-![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.nov97.cover_big.jpg)
-
-![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.dec97.cover_big.jpg)
-
-![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.fev97.left.jpg)![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.fev97.right.jpg)
+![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.fev97.cover.jpg)
 
 ![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.mars97.cover.jpg)
 
@@ -26,3 +20,8 @@ comments: true
 
 ![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.sep97.cover.jpg)
 
+![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.oct97.cover_big.jpg)
+
+![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.nov97.cover_big.jpg)
+
+![]({{ site.url }}/images/posts/1997-12-31-mensuel-eujs-magazine/mensuel.dec97.cover_big.jpg)
