@@ -2,7 +2,6 @@
 layout: post
 title: "M.E.N.S.U.E.L. Magazine, Switzerland"
 date: 1997-12-31
-
 tags: [digital, web]
 comments: true
 ---
