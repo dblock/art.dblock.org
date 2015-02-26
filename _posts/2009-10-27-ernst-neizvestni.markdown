@@ -2,7 +2,7 @@
 layout: post
 title: "Ernst Neizvestni"
 date: 2009-10-27
-tags: []
+tags: [drawings, private collection]
 comments: true
 ---
 Given to my grandfather in Moscow, former USSR.
