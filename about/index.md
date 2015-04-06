@@ -18,7 +18,7 @@ This blog catalogues my own works, works in my collection and some art-related t
 
 Unless otherwise specified, all work on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Basically you can use my images with attribution for non-commercial work. For anything else, please <a href="mailto:dblock@dblock.org">e-mail me</a>.
 
-I rarely post here these days, you can follow me on [Instagram](http://instagram.com/dblockdotorg) or [Twitter](https://twitter.com/dblockdotorg). Finally, if you had enough of the art, my tech blog is [here](http://code.dblock.org).
+You can follow me on [Instagram](http://instagram.com/dblockdotorg) or [Twitter](https://twitter.com/dblockdotorg). If you're just here for photos of kids and art, follow my other account, [KidsAndSharks](https://instagram.com/kidsandsharks). Finally, if you had enough of the art, my tech blog is [here](http://code.dblock.org).
 
 ![]({{ site.url }}/images/about/mebyj.png)
 This is, indeed, me. Photo collage (c) Josh Sellers
