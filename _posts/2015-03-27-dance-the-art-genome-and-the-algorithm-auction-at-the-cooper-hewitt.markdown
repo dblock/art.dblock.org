@@ -15,3 +15,4 @@ Also, an excellent read, [Are Algorithms Conceptual Art’s Next Frontier?](http
 * [The First Auction for Algorithms Is Attracting $1,000 Bids, Wired](http://www.wired.com/2015/03/meet-thousand-dollar-algorithms-auction)
 * [Algorithm Auction Proves Code is Art, PSFK](http://www.psfk.com/2015/03/artsy-algorithm-auction-artsy-code-is-art.html)
 * [You Can Now Buy The OKCupid Algorithm, FastCoDesign](http://www.fastcodesign.com/3043833/you-can-now-buy-the-okcupid-algorithm)
+* [Art World Tries to Crack the Code Of Collecting Algorithms, Wall Street Journal](http://www.wsj.com/articles/SB21324709780835754588604580634763075939110)
