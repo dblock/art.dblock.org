@@ -16,4 +16,4 @@ Also, an excellent read, [Are Algorithms Conceptual Art’s Next Frontier?](http
 * [Algorithm Auction Proves Code is Art, PSFK](http://www.psfk.com/2015/03/artsy-algorithm-auction-artsy-code-is-art.html)
 * [You Can Now Buy The OKCupid Algorithm, FastCoDesign](http://www.fastcodesign.com/3043833/you-can-now-buy-the-okcupid-algorithm)
 * [Art World Tries to Crack the Code Of Collecting Algorithms, Wall Street Journal](http://www.wsj.com/articles/SB21324709780835754588604580634763075939110)
-* [What’s Hot in the Art World? Algorithms, WSJ](http://www.wsj.com/articles/whats-hot-in-the-art-world-algorithms-1432687554)
+* [What’s Hot in the Art World? Algorithms, Wall Street Journal](http://www.wsj.com/articles/whats-hot-in-the-art-world-algorithms-1432687554)
