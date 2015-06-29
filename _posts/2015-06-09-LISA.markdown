@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Leaders in Software and Art (LISA) at Babycastles"
+date: 2015-06-09
+tags: [technology, digital, brooklyn]
+comments: true
+---
+<iframe src="https://player.vimeo.com/video/131779756" width="500" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131779756">Video</a></p>
+
+[LISA](http://www.softwareandart.com/)

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Flat File"
+date: 2015-06-28
+tags: [furniture]
+comments: true
+---
+Still trying to figure out the manufacturer and year. Maybe you know?
+
+![]({{ site.url }}/images/posts/2015-06-28-flat-file/front.jpg)
+
+![]({{ site.url }}/images/posts/2015-06-28-flat-file/side.jpg)
+
