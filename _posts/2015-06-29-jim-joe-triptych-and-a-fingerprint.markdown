@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jim Joe Triptich, Including a Fingerprint"
+title: "Jim Joe Triptych, Including a Fingerprint"
 date: 2015-06-29
 tags: [jimjoe, art collection]
 comments: true
