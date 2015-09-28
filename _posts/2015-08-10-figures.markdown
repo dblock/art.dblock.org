@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Figures"
+date: 2015-08-10
+tags: [figure drawing]
+comments: true
+---
+Some new figure drawing.
+
+![]({{ site.url }}/images/posts/2015-08-10-figures/one.jpg)
+
+![]({{ site.url }}/images/posts/2015-08-10-figures/two.jpg)
+
+![]({{ site.url }}/images/posts/2015-08-10-figures/three.jpg)
+
+![]({{ site.url }}/images/posts/2015-08-10-figures/four.jpg)
+
+![]({{ site.url }}/images/posts/2015-08-10-figures/five.jpg)
