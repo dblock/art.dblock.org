@@ -1,13 +1,13 @@
 title: art.dblock.org | art blog
 locale: en_US
-url: http://art.dblock.org
+url:
 markdown: kramdown
-highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 kramdown:
   input: GFM
 owner:
