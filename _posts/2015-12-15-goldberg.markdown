@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Godberg at Park Avenue Armory"
+date: 2015-12-15
+tags: [piano, marina abramovic, music, shows]
+comments: true
+---
+Wow.
+
+![]({{ site.url }}/images/posts/2015-12-15-goldberg/goldbergandmarina.jpg)
+
+[armoryonpark.org](http://www.armoryonpark.org/programs_events/detail/goldberg)
