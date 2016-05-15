@@ -13,7 +13,7 @@ kramdown:
 owner:
   name: "Daniel Doubrovkine"
   avatar: blog.gif
-  bio: "sanguines, conté crayon, photography, private collection, theatre and everything else art related"
+  bio: "Drawing sanguines, conté crayon, photography, private collection, theatre and art log. CTO at <a href='https://www.artsy.net'>artsy.net</a>, <a href='https://www.instagram.com/kidsandsharks'>@kidsandsharks</a>."
   email: dblock@dblock.org
   disqus-shortname: dblockdotorg-art
   twitter: dblockdotorg
@@ -28,7 +28,7 @@ owner:
   github:
   stackoverflow:
   linkedin:
-  instagram: dblockdotorg
+  instagram: kidsandsharks
   lastfm:
   tumblr:
   pinterest:
