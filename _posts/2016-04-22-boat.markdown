@@ -1,0 +1,9 @@
+---
+layout: post
+title: "A Boat"
+date: 2016-04-22
+tags: [photography]
+comments: true
+---
+![]({{ site.url }}/images/posts/2016-04-22-boat/boat.jpg)
+
