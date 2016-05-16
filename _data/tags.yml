@@ -1,0 +1,75 @@
+art:
+  name: art
+  count: 19
+art collection:
+  name: art collection
+  count: 5
+artsy:
+  name: artsy
+  count: 9
+broadway:
+  name: broadway
+  count: 12
+brooklyn:
+  name: brooklyn
+  count: 8
+digital:
+  name: digital
+  count: 18
+drawing:
+  name: drawing
+  count: 16
+figure drawing:
+  name: figure drawing
+  count: 6
+food:
+  name: food
+  count: 5
+kids:
+  name: kids
+  count: 7
+models:
+  name: models
+  count: 7
+moma:
+  name: moma
+  count: 5
+music:
+  name: music
+  count: 9
+new york:
+  name: new york
+  count: 5
+new york city:
+  name: new york city
+  count: 8
+photography:
+  name: photography
+  count: 19
+photos:
+  name: photos
+  count: 63
+plays:
+  name: plays
+  count: 6
+posters:
+  name: posters
+  count: 9
+private collection:
+  name: private collection
+  count: 9
+sanguine:
+  name: sanguine
+  count: 16
+seattle:
+  name: seattle
+  count: 7
+shows:
+  name: shows
+  count: 47
+space virgins:
+  name: space virgins
+  count: 7
+theatre:
+  name: theatre
+  count: 8
