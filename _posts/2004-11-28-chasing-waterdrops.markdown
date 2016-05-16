@@ -2,7 +2,6 @@
 layout: post
 title: "Chasing Waterdrops in Manhttan"
 date: 2004-11-28
-
 tags: [photography, new york]
 comments: true
 ---

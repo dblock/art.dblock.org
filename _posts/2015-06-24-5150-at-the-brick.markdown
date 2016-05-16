@@ -2,7 +2,7 @@
 layout: post
 title: "5150 at The Brick"
 date: 2015-06-24
-tags: [plays, brooklyn]
+tags: [plays, theatre]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2015-06-24-5150-at-the-brick/playbill.jpg)

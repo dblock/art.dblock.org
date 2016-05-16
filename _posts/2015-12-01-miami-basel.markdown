@@ -2,7 +2,7 @@
 layout: post
 title: "Art Basel Miami Beach 2015"
 date: 2015-12-01
-tags: [abmb, art, shows, miami]
+tags: [art fairs, miami]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2015-12-01-miami-basel/boat.jpg)

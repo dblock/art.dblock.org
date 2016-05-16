@@ -2,7 +2,7 @@
 layout: post
 title: "West Broadway Runway, SOHO"
 date: 2005-04-09
-tags: [new york city, photos, people]
+tags: [new york, photography, people]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-04-09-west-broadway-runway-SOHO/DSC_9747.JPG)

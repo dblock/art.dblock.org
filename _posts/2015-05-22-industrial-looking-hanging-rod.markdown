@@ -2,7 +2,7 @@
 layout: post
 title: "Industrial-Looking Hanging Rod"
 date: 2015-05-22
-tags: [hanging, hardware, loft]
+tags: [loft]
 comments: true
 ---
 I am a big fan of finding non-standard, creative solutions to typical problems that can easily be solved with a bit of cash. For example, one of my house projects included [hanging large drawings with plexiglass](/2007/12/18/big-frame-hanging.html).

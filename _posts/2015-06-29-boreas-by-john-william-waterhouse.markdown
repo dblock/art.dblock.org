@@ -2,7 +2,7 @@
 layout: post
 title: "Boreas by John William Waterhouse"
 date: 2015-06-29
-tags: [art collection, classics]
+tags: [private collection]
 comments: true
 ---
 Got lucky and picked up a John William Waterhouse print of "Boreas" from a high definition digital press test run.

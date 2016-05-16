@@ -2,7 +2,7 @@
 layout: post
 title: "Kim with a Gun"
 date: 2005-05-21
-tags: [photos, models]
+tags: [photography, people, models]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-05-21-kim/DSC_3203.JPG)

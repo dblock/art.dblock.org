@@ -2,7 +2,7 @@
 layout: post
 title: "Antigone at the BAM"
 date: 2015-09-24
-tags: [shows, drama]
+tags: [theatre, plays]
 comments: true
 ---
 [Antigone](http://www.bam.org/theater/2015/antigone), with Juliette Binoche!

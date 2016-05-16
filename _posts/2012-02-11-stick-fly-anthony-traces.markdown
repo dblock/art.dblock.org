@@ -2,7 +2,7 @@
 layout: post
 title: "Stick Fly, Anthony and the Johnsons & Traces"
 date: 2012-02-11
-tags: [shows, broadway, music]
+tags: [threatre shows, broadway shows, music shows]
 comments: true
 ---
 With three shows in just over a month I didn’t get a moment to blog about them.

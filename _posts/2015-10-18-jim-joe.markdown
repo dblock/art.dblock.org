@@ -2,7 +2,7 @@
 layout: post
 title: "A JimJoe Triptich"
 date: 2015-10-18
-tags: [jimjoe, street art]
+tags: [jim joe]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2015-10-18-jim-joe/triptich.jpg)

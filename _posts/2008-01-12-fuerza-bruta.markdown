@@ -2,7 +2,7 @@
 layout: post
 title: "Fuerza Bruta"
 date: 2008-01-12
-tags: [photos, performances]
+tags: [photography, theatre]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-01-12-fuerza-bruta/DSC_8666.jpg)

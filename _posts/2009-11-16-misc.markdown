@@ -2,7 +2,7 @@
 layout: post
 title: "Restaurnat Doors"
 date: 2009-11-16
-tags: [photos, restaurants]
+tags: [photography, restaurants]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2009-11-16-misc/15818-DSC_8512.jpg)

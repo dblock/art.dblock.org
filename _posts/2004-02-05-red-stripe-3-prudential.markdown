@@ -2,8 +2,7 @@
 layout: post
 title: "People Looking at Drawings at Red Stripe"
 date: 2004-02-05
-
-tags: [drawing, sanguine]
+tags: [drawing, sanguines, parties, art walk, seattle]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2004-02-05-red-stripe-3-prudential/IMG_8154.jpg)

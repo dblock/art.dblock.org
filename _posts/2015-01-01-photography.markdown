@@ -2,7 +2,7 @@
 layout: post
 title: "Photography Favorites"
 date: 2015-01-01
-tags: [photography, digital]
+tags: [photography]
 comments: true
 pinned: true
 ---

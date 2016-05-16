@@ -2,7 +2,7 @@
 layout: post
 title: "Canson Mi-Teintes"
 date: 2009-01-17
-tags: [drawing, sanguine, paper]
+tags: [drawing, sanguines]
 comments: true
 ---
 People occasionally ask me what I use for the large drawings. These Canson Mi-Teintes rolls have become almost impossible to find. I still have a bit of reserve from last year.

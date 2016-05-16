@@ -2,7 +2,7 @@
 layout: post
 title: "Large Sanguine Drawings"
 date: 2015-01-02
-tags: [drawing, sanguine]
+tags: [drawing, sanguines]
 comments: true
 pinned: true
 ---

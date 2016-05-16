@@ -2,7 +2,6 @@
 layout: post
 title: "Wet in Manhattan"
 date: 2004-11-25
-
 tags: [phtography, new york]
 comments: true
 ---

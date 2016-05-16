@@ -2,7 +2,7 @@
 layout: post
 title: "Chelsea Art Walk"
 date: 2016-03-26
-tags: [chelsea, art, galleries]
+tags: [art shows]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2016-03-26-art-walk/screens.jpg)

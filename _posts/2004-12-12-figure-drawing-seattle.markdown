@@ -2,8 +2,7 @@
 layout: post
 title: "Figure Drawing, Seattle"
 date: 2004-11-12
-
-tags: [figure drawing, sanguine]
+tags: [drawing, sanguines]
 comments: true
 ---
 

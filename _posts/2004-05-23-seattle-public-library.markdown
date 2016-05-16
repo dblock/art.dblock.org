@@ -2,7 +2,7 @@
 layout: post
 title: "Seattle Public Library Opening"
 date: 2004-05-23
-tags: [seattle, photos, architecture]
+tags: [seattle, photography, architecture]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2004-05-23-seattle-public-library/DSCN4517.JPG)

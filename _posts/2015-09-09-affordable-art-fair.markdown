@@ -2,7 +2,7 @@
 layout: post
 title: "Affordable Art Fair, 2015"
 date: 2015-09-09
-tags: [fairs]
+tags: [art fairs]
 comments: true
 ---
 The [Affordable Art Fair](http://affordableartfair.com/newyork), New York, 2015.

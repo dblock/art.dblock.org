@@ -2,7 +2,7 @@
 layout: post
 title: "Art Salon"
 date: 2006-06-03
-tags: [photos]
+tags: [photography, misha, art events]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2006-06-03-art-salon/DSC_0655.jpg)

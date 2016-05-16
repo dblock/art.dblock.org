@@ -2,7 +2,7 @@
 layout: post
 title: "Joey: Photoshoot 2"
 date: 2005-08-21
-tags: [photos, models]
+tags: [photography, people, models]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-08-21-joey-photoshoot-2/DSC_9112.jpg)

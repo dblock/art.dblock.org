@@ -2,8 +2,7 @@
 layout: post
 title: "Roman Doubrovkine: Watercolors"
 date: 2003-03-06
-
-tags: [watercolors, private collection]
+tags: [watercolor, private collection]
 comments: true
 ---
 Some of my father's watercolors in my private collection.

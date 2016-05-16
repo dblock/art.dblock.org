@@ -2,7 +2,7 @@
 layout: post
 title: "Walk in Central Park"
 date: 2008-11-15
-tags: [photos, central park, new york city]
+tags: [photography, central park, new york]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-11-15-walk-in-the-park/DSC_3593.jpg)

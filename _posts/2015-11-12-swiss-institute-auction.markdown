@@ -2,7 +2,7 @@
 layout: post
 title: "Swiss Institute Auction"
 date: 2015-11-12
-tags: [auction, artsy]
+tags: [auctions, artsy]
 comments: true
 ---
 [on artsy.net](https://www.artsy.net/auction/swiss-institute-benefit-live-auction-2015)

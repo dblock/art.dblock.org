@@ -2,7 +2,7 @@
 layout: post
 title: "The Fine Arts Slack"
 date: 2016-05-04
-tags: [slack, community]
+tags: [slack, community, artsy]
 comments: true
 ---
 I started a new Fine Arts Slack, join [here](http://thearts.herokuapp.com).

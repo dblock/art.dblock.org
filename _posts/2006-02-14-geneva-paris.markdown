@@ -2,7 +2,7 @@
 layout: post
 title: "Geneva to Paris"
 date: 2006-02-14
-tags: [photos, geneva, paris]
+tags: [photography, geneva, paris, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2006-02-14-geneva-paris/DSC_6688.jpg)

@@ -2,7 +2,7 @@
 layout: post
 title: "Susanne Bartsch: Fashion Underground"
 date: 2015-11-14
-tags: [shows, fashion]
+tags: [art shows]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2015-11-14-susanne-bartsch-fashion-underground/entrance.jpg)

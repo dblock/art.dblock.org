@@ -2,7 +2,6 @@
 layout: post
 title: "John Hare, Cape Cod Harbor Watercolor"
 date: 2003-01-15
-
 tags: [watercolor, private collection]
 comments: true
 ---

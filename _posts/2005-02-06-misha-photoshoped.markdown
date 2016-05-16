@@ -2,7 +2,7 @@
 layout: post
 title: "Misha Photoshoped"
 date: 2005-02-06
-tags: [digital, photoshop]
+tags: [digital art, photoshop, misha]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-02-06-misha-photoshoped/DSC_2425.JPG)

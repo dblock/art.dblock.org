@@ -2,7 +2,7 @@
 layout: post
 title: "The Armory Show 2015"
 date: 2015-03-05
-tags: [armory show, new york, art, shows]
+tags: [armory show, new york, art shows]
 comments: true
 ---
 Worked three days at [The Armory Show 2015](https://www.artsy.net/the-armory-show).

@@ -2,7 +2,7 @@
 layout: post
 title: "Burning Man 2006"
 date: 2006-08-28
-tags: [photos, burning man]
+tags: [photography, burning man]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2006-08-28-burning-man/DSC_4013.jpg)

@@ -2,7 +2,7 @@
 layout: post
 title: "Артём Миролевич ест голубец"
 date: 2009-05-19
-tags: [photos, food]
+tags: [photography, food]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2009-05-19-artem-mirolevich/14981-DSCF1419.JPG)

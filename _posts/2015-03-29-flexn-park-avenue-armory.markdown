@@ -2,7 +2,7 @@
 layout: post
 title: "FlexN at Park Avenue Armory"
 date: 2015-03-29
-tags: [dance, ballet]
+tags: [theatre, ballet]
 comments: true
 ---
 <a href='http://www.armoryonpark.org/programs_events/detail/flexn'>FlexN</a> is for you if you're into modern ballet, the audience was mostly bored.

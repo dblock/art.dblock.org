@@ -2,8 +2,7 @@
 layout: post
 title: "Red Stripe Art Walk, Pioneer Square, Seattle"
 date: 2003-12-04
-
-tags: [digital, flyers]
+tags: [digital art, flyers, parties, seattle]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2003-12-04-red-stripe-art-walk/red-stripe-5.gif)

@@ -2,7 +2,7 @@
 layout: post
 title: "Auction at PostMasters and ArtApp"
 date: 2015-12-16
-tags: [auction, gallery]
+tags: [auctions, art shows]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2015-12-16-artplusapp/internet.jpg)

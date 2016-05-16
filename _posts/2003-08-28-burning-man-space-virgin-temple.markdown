@@ -2,7 +2,7 @@
 layout: post
 title: "Burning Man 2003: Space Virgin Temple"
 date: 2003-08-28
-tags: []
+tags: [burning man, architecture]
 comments: true
 ---
 I only helped build this, all credit goes to the amazing Space Virgins collective.

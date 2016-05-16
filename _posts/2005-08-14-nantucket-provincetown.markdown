@@ -2,7 +2,7 @@
 layout: post
 title: "Nantucket & Provincetown"
 date: 2005-08-14
-tags: [photos, nantucket, provincetown]
+tags: [photography, nantucket, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-08-14-nantucket-provincetown/DSC_8543.jpg)

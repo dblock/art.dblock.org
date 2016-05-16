@@ -2,7 +2,7 @@
 layout: post
 title: "Björk at MOMA"
 date: 2015-03-16
-tags: [moma, shows, music]
+tags: [moma, art shows, music]
 comments: true
 ---
 The MOMA was a zoo. Watching Björk's video was painful. Hated it.

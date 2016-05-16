@@ -2,7 +2,7 @@
 layout: post
 title: "In My Head"
 date: 2015-08-05
-tags: [figure drawing]
+tags: [drawing]
 comments: true
 ---
 This is an old drawing dug up from the archives.

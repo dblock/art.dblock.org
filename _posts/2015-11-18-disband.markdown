@@ -2,7 +2,7 @@
 layout: post
 title: "Disband: The No Wave Female Art Band"
 date: 2015-11-18
-tags: [shows, crazy]
+tags: [art shows]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2015-11-18-disband/disband.jpg)

@@ -2,7 +2,7 @@
 layout: post
 title: "Thomas Ades: Concentric Paths"
 date: 2015-11-19
-tags: [shows, ballet]
+tags: [ballet, theatre]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2015-11-19-thomas-ades-concentric-paths/ticket.jpg)

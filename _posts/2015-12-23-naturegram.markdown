@@ -2,7 +2,7 @@
 layout: post
 title: "Naturegram: Upstate New York"
 date: 2015-12-23
-tags: [nature, photography]
+tags: [photography, new york]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2015-12-23-naturegram/five.jpg)

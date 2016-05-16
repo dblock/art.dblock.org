@@ -2,7 +2,7 @@
 layout: post
 title: "Figures"
 date: 2015-08-10
-tags: [figure drawing]
+tags: [drawing, sanguines]
 comments: true
 ---
 Some new figure drawing.

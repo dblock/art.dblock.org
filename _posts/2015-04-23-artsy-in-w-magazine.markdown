@@ -2,7 +2,7 @@
 layout: post
 title: "Artsy in the W Magazine Art Issue"
 date: 2015-04-23
-tags: [press, artsy, meme]
+tags: [artsy, me me]
 comments: true
 ---
 With team [@artsy](https://www.artsy.net/about) the May Art issue of the W Magazine.

@@ -2,8 +2,7 @@
 layout: post
 title: "Moscow Nostalgia by Poul A. Costinsky"
 date: 2004-08-31
-
-tags: [photography, moscow, private collection]
+tags: [photography, moscow, private collection, travels, architecture]
 comments: true
 ---
 Photos from the place I was born by [Poul A. Costinsky](http://www.polyrealism.com).

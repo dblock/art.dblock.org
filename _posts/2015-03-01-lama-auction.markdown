@@ -2,7 +2,7 @@
 layout: post
 title: "Los Angeles Modern Auctions"
 date: 2015-03-01
-tags: [lama, auctions, los angeles]
+tags: [auctions, los angeles, artsy]
 comments: true
 ---
 Went to L.A. for the [LA Modern Auction](https://www.artsy.net/lama).

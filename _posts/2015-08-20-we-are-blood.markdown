@@ -2,7 +2,7 @@
 layout: post
 title: "We Are Blood"
 date: 2015-08-20
-tags: [skateboarding, movies]
+tags: [movies]
 comments: true
 ---
 The premier of [We Are Blood](http://www.weareblood.com).

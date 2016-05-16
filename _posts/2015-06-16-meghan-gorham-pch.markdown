@@ -2,7 +2,7 @@
 layout: post
 title: "Meghan Gorham - PCH"
 date: 2015-06-16
-tags: [art collection]
+tags: [private collection, photography]
 comments: true
 ---
 [Megan Gorham](http://megangorham.com) print from the [Aperture Foundation](http://www.aperture.org).

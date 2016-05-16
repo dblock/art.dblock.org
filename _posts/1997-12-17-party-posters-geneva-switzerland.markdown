@@ -2,8 +2,7 @@
 layout: post
 title: "Party Posters from Geneva, Switzerland"
 date: 1997-12-17
-
-tags: [posters, digital]
+tags: [digital art, parties, flyers]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/1997-12-17-party-posters-geneva-switzerland/12-17-1997-saturnales.jpg)

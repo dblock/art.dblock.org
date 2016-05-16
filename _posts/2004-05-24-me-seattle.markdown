@@ -2,8 +2,7 @@
 layout: post
 title: "Me in Seattle by Poul A. Costinsky"
 date: 2004-05-24
-
-tags: [photos, me me]
+tags: [photography, me me, seattle]
 comments: true
 ---
 Photos of me by [Poul A. Costinsky](http://www.polyrealism.com).

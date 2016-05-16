@@ -2,7 +2,7 @@
 layout: post
 title: "Gertrude Stein: Paisieu"
 date: 2015-06-11
-tags: [plays]
+tags: [theatre, plays]
 comments: true
 ---
 At the [Target Margin Theater Lab](http://www.targetmargin.org/our-season/lab).

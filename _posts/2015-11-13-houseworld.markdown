@@ -2,7 +2,7 @@
 layout: post
 title: "Houseworld"
 date: 2015-11-13
-tags: [shows, theatre]
+tags: [theatre]
 comments: true
 ---
 [houseworld.nyc](http://www.houseworld.nyc)

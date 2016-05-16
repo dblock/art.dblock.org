@@ -2,7 +2,7 @@
 layout: post
 title: "Basket Escape"
 date: 2012-01-04
-tags: [photos, kids]
+tags: [photography, kids]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2012-01-04-escape/18166-DSC_61706.jpg)

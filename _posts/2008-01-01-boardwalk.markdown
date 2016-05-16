@@ -2,7 +2,7 @@
 layout: post
 title: "Brighton Beach Boardwalk"
 date: 2008-01-01
-tags: [photos, brighton beach, brooklyn]
+tags: [photography, brighton beach, brooklyn, new york]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-01-01-boardwalk/DSC_8461.jpg)

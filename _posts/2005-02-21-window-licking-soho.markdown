@@ -2,7 +2,7 @@
 layout: post
 title: "Window Licking, SOHO, New York City"
 date: 2005-02-21
-tags: [photos, new york city]
+tags: [photography, new york]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-02-21-window-licking-soho/DSC_5314.JPG)

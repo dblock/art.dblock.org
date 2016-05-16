@@ -2,7 +2,7 @@
 layout: post
 title: "Costa Rica: Cahuita, Caribbean Coast"
 date: 2005-07-01
-tags: [cost rica, photos]
+tags: [costa rica, photography, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-07-01-costa-rica-cahuita/DSC_6950.jpg)

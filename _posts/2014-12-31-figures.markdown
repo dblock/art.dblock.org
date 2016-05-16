@@ -2,7 +2,7 @@
 layout: post
 title: "Selected Figure Drawing"
 date: 2014-12-31
-tags: [drawing, sanguine, pastel]
+tags: [drawing, drawing, sanguines]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2014-12-31-figures/DSC_4565.jpg)

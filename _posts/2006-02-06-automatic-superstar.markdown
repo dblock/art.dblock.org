@@ -2,7 +2,7 @@
 layout: post
 title: "Automatic Superstar: Who is Matic?"
 date: 2006-02-06
-tags: [photos, models]
+tags: [photography, people, models]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2006-02-06-automatic-superstar/DSC_6104.jpg)

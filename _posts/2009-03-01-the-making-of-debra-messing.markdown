@@ -2,7 +2,7 @@
 layout: post
 title: "The Making of Debra Messing"
 date: 2009-03-01
-tags: [drawing, sanguine]
+tags: [drawing, sanguines]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2009-03-01-the-making-of-debra-messing/DSC_4833.jpg)

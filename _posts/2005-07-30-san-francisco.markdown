@@ -2,7 +2,7 @@
 layout: post
 title: "San Francisco"
 date: 2005-07-30
-tags: [photos, san francisco, architecture]
+tags: [photography, san francisco, architecture, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-07-30-san-francisco/DSC_8160.jpg)

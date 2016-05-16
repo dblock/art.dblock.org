@@ -2,7 +2,7 @@
 layout: post
 title: "Reasons to Be Pretty"
 date: 2009-04-08
-tags: [shows, off-broadway]
+tags: [theatre, plays]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2009-04-08-reasons-to-be-pretty/reasonstobepretty.jpg)

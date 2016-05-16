@@ -2,7 +2,7 @@
 layout: post
 title: "Unseamly at Urban Stages"
 date: 2015-10-22
-tags: [shows, plays]
+tags: [theatre, plays]
 comments: true
 ---
 An excellent play, [Unseamly](http://urbanstages.org/unseamly), at Urban Stages.

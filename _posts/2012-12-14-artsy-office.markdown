@@ -2,7 +2,7 @@
 layout: post
 title: "Artsy Office"
 date: 2012-12-14
-tags: []
+tags: [artsy]
 comments: true
 ---
 [artsy.net](https://www.artsy.net)

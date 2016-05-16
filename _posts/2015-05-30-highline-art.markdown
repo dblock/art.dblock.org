@@ -2,7 +2,7 @@
 layout: post
 title: "Olafur Eliasson: The Collectivity Project on the Highline"
 date: 2015-05-30
-tags: [art, chelsea]
+tags: [art shows]
 comments: true
 ---
 [Olafur Eliasson: The Collectivity Project](http://art.thehighline.org/project/olafureliasson).

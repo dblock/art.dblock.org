@@ -2,7 +2,7 @@
 layout: post
 title: "Three Omelets"
 date: 2008-04-13
-tags: [food, photos]
+tags: [food, photography]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-04-13-three-omelets/DSC_0539.jpg)

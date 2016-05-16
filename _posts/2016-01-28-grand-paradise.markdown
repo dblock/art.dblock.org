@@ -2,7 +2,7 @@
 layout: post
 title: "Grand Paradise"
 date: 2016-01-28
-tags: [shows, performance, theatre]
+tags: [theatre]
 comments: true
 ---
 [The Grand Paradise](http://thegrandparadise.com)

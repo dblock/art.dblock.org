@@ -2,7 +2,7 @@
 layout: post
 title: "New York City Ballet, Winter 2015"
 date: 2015-02-01
-tags: [ballet, lincoln center, nycb]
+tags: [ballet]
 comments: true
 ---
 Went to NYCB twice in February, a performance in the regular [2015 Winter Season](http://www.nycballet.com/Season-Tickets/Winter-2015.aspx

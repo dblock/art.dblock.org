@@ -2,7 +2,7 @@
 layout: post
 title: "Washington DC Subway"
 date: 2008-09-13
-tags: [photos, subway]
+tags: [photography, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-09-13-washington-dc/DSC_2540.jpg)

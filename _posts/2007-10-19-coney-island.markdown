@@ -2,7 +2,7 @@
 layout: post
 title: "Coney Island"
 date: 2007-10-19
-tags: [photos, brooklyn, coney island]
+tags: [photography, brooklyn, coney island, new york]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2007-10-19-coney-island/DSC_5702.jpg)

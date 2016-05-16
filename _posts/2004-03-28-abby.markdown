@@ -2,7 +2,7 @@
 layout: post
 title: "Abby"
 date: 2004-03-28
-tags: [drawing, sanguine]
+tags: [drawing, sanguines]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2004-03-28-abby/IMG_4316.jpg)

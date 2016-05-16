@@ -2,8 +2,7 @@
 layout: post
 title: "Friday Harbor, San Juan Islands"
 date: 2004-08-14
-
-tags: [photography, seattle]
+tags: [photography, seattle, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2004-08-14-friday-harbor-san-juan/DSCN0062.JPG)

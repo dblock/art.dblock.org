@@ -2,7 +2,7 @@
 layout: post
 title: "Jim Joe: Official and Please Thank You"
 date: 2015-06-10
-tags: [jimjoe, art collection]
+tags: [jim joe, private collection]
 comments: true
 ---
 Finally framed after years of being tucked away.

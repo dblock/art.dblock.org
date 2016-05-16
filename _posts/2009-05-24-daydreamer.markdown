@@ -2,7 +2,7 @@
 layout: post
 title: "Daydreamer, USVI"
 date: 2009-05-24
-tags: [photos, boats, usvi]
+tags: [photography, usvi, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2009-05-24-daydreamer/DSC_5744.jpg)

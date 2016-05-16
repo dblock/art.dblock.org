@@ -2,7 +2,7 @@
 layout: post
 title: "Hawaii"
 date: 2006-06-18
-tags: [photos, hawaii]
+tags: [photography, hawaii, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2006-06-18-hawaii/DSC_1188.jpg)

@@ -2,8 +2,7 @@
 layout: post
 title: "Watercolor from Jussy, Geneva, Switzerland"
 date: 1993-05-16
-
-tags: [watercolors]
+tags: [drawing, watercolor]
 comments: true
 ---
 One of my earliest watercolors I could find, made in Jussy, near Geneva, Switzerland

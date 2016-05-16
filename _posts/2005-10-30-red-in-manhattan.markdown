@@ -2,7 +2,7 @@
 layout: post
 title: "Red in Manhattan (Take 2)"
 date: 2005-10-30
-tags: [photos, new york city]
+tags: [photography, new york]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-10-30-red-in-manhattan/DSC_2858.jpg)

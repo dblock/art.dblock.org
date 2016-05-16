@@ -2,7 +2,7 @@
 layout: post
 title: "Molly & Nick, Bleecker St. Rooftom"
 date: 2005-06-11
-tags: [photos, models]
+tags: [photography, people, models]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-06-11-molly-nick-bleecker/DSC_4763.jpg)

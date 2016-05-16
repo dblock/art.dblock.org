@@ -2,7 +2,7 @@
 layout: post
 title: "Fallen"
 date: 2010-04-04
-tags: [drawing, sanguine]
+tags: [drawing, sanguines]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2010-04-04-fallen/DSC_0417.jpg)

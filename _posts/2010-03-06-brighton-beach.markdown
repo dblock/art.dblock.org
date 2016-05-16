@@ -2,7 +2,7 @@
 layout: post
 title: "Brighton Beach"
 date: 2010-03-06
-tags: [photos, brighton beach, brooklyn]
+tags: [photography, brighton beach, brooklyn, new york]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2010-03-06-brighton-beach/DSC_0096.jpg)

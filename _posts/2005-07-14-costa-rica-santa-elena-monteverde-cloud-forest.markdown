@@ -2,7 +2,7 @@
 layout: post
 title: "Costa Rica: Santa Elena, Monteverde Cloud Forest"
 date: 2005-07-14
-tags: [photos, costa rica]
+tags: [photography, costa rica, travels]
 comments: true
 ---
 A few folks threw a couple of stones together and called it a road. It’s passable with an SUV, the bigger the better. Directions and signs are confusing, but the surrounding wilderness is stunning. An occasional armadillo runs across the road.

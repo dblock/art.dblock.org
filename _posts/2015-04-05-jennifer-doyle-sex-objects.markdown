@@ -2,7 +2,7 @@
 layout: post
 title: "Jennifer Doyle's \"Sex Objects\""
 date: 2015-04-05
-tags: [books, art]
+tags: [books]
 comments: true
 ---
 <a href='http://www.amazon.com/Sex-Objects-Art-Dialectics-Desire/dp/0816645264'>![]({{ site.url }}/images/posts/2015-04-05-jennifer-doyle-sex-objects/book.jpg)</a>

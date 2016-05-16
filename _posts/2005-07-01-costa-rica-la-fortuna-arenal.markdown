@@ -2,7 +2,7 @@
 layout: post
 title: "Costa Rica: La Fortuna & Arenal"
 date: 2005-07-01
-tags: [phtoos, costa-rica]
+tags: [photography, travels, costa rica]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-07-01-costa-rica-la-fortuna-arenal/DSC_6322.jpg)

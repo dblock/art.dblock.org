@@ -2,7 +2,7 @@
 layout: post
 title: "Carter and I"
 date: 2015-06-22
-tags: [artsy]
+tags: [artsy, me me]
 comments: true
 ---
 A rare [@carterac](https://twitter.com/carterac) and I on the subway.

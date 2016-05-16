@@ -2,8 +2,7 @@
 layout: post
 title: "Hebrew National"
 date: 2004-02-05
-
-tags: [photos, me me]
+tags: [photography, me me]
 comments: true
 ---
 Photos from the place I was born by [Poul A. Costinsky](http://www.polyrealism.com).

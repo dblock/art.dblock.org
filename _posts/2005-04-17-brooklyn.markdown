@@ -2,7 +2,7 @@
 layout: post
 title: "Brooklyn"
 date: 2005-04-17
-tags: [photos, brooklyn]
+tags: [photography, brooklyn, new york]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-04-17-brooklyn/DSC_0099.JPG)

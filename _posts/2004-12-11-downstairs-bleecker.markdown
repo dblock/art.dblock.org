@@ -2,7 +2,6 @@
 layout: post
 title: "89 Bleecker Street, New York"
 date: 2004-12-12
-
 tags: [loft, new york]
 comments: true
 ---

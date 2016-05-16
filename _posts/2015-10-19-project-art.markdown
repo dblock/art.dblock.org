@@ -2,7 +2,7 @@
 layout: post
 title: "Project Art 2015 Gala"
 date: 2015-10-19
-tags: [charity]
+tags: [art events]
 comments: true
 ---
 A very important charity, [ProjectArt](http://projectart.org).

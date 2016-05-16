@@ -2,7 +2,7 @@
 layout: post
 title: "Lusty Lady, Seattle, Sign"
 date: 2015-06-16
-tags: [art collection]
+tags: [private collection]
 comments: true
 ---
 I snagged this from [Lusty Lady](https://en.wikipedia.org/wiki/Lusty_Lady).

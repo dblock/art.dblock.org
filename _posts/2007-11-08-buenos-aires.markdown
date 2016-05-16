@@ -2,7 +2,7 @@
 layout: post
 title: "Buenos-Aires"
 date: 2007-11-08
-tags: [photos, buenos-aires, argentina]
+tags: [photography, buenos aires, argentina, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2007-11-08-buenos-aires/DSC_7155.jpg)

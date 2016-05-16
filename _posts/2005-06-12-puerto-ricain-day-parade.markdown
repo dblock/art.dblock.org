@@ -2,7 +2,7 @@
 layout: post
 title: "Puerto-Rican Day Parade"
 date: 2005-06-12
-tags: [photos, parades]
+tags: [photography, new york, parade]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-06-12-puerto-ricain-day-parade/DSC_4987.JPG)

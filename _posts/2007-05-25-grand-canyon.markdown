@@ -2,7 +2,7 @@
 layout: post
 title: "Grand Canyon"
 date: 2007-05-25
-tags: [photos, grand canyon]
+tags: [photography, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2007-05-25-grand-canyon/DSC_2587.jpg)

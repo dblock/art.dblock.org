@@ -2,7 +2,7 @@
 layout: post
 title: "Oh Zeus, please grant me the gift of Xanadu!"
 date: 2008-09-19
-tags: [shows, broadway, musicals]
+tags: [theatre, broadway shows, musicals]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-09-19-xanadu/xanadu.jpg)

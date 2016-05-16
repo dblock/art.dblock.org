@@ -2,7 +2,7 @@
 layout: post
 title: "The Armory Show 2016"
 date: 2016-03-02
-tags: [art fairs, armory]
+tags: [art fairs]
 comments: true
 ---
 First, I ran into [Jerry Saltz](https://twitter.com/jerrysaltz).

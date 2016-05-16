@@ -2,7 +2,7 @@
 layout: post
 title: "Basquiat Notebooks at the Brooklyn Museum"
 date: 2015-04-03
-tags: [brooklyn museum, basquiat]
+tags: [art shows]
 comments: true
 ---
 They are notebooks.

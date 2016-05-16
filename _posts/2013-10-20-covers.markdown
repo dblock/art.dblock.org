@@ -2,7 +2,7 @@
 layout: post
 title: "Covers"
 date: 2013-10-20
-tags: [electronic music]
+tags: [theatre, plays]
 comments: true
 ---
 Saw an awesome off-Broadway play a couple of weeks ago, [Covers](http://www.nationalyiddishtheatre.org/productions/covers).

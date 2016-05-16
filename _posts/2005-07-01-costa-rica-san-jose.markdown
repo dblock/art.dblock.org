@@ -2,7 +2,7 @@
 layout: post
 title: "Costa Rica: San Jose"
 date: 2005-07-01
-tags: [photos, costa-rica]
+tags: [photography, costa rica, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-07-01-costa-rica-san-jose/DSC_6766.jpg)

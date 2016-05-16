@@ -2,7 +2,7 @@
 layout: post
 title: "National Aquarium, Baltimore"
 date: 2005-03-26
-tags: [animals, photos]
+tags: [animals, photography, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-03-26-national-aquarium-baltimore/DSC_7934.JPG)

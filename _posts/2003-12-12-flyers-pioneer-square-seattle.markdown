@@ -2,8 +2,7 @@
 layout: post
 title: "HeartBeat Party Posters from Pioneer Square, Seattle"
 date: 2003-12-12
-
-tags: [posters, digital, space virgins]
+tags: [posters, digital art, space virgins, seattle, flyers, parties]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2003-12-12-flyers-pioneer-square-seattle/08-08-2003-propaganda.jpg)

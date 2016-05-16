@@ -2,8 +2,7 @@
 layout: post
 title: "Locks and Bolts, Manhattan"
 date: 2005-01-02
-
-tags: [photography, new york city]
+tags: [photography, new york]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-01-02-locks-and-bolts-manhattan/DSC_0232.JPG)

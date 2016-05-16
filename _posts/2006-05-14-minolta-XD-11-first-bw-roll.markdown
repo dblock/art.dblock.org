@@ -2,7 +2,7 @@
 layout: post
 title: "Minolta XD-11, First B&W Roll"
 date: 2006-05-14
-tags: [photos, film]
+tags: [photography, film, new york, misha]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2006-05-14-minolta-XD-11-first-bw-roll/db-misha-1.jpg)

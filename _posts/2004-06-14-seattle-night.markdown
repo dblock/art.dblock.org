@@ -2,8 +2,7 @@
 layout: post
 title: "Seattle by Night"
 date: 2004-06-14
-
-tags: [photography, seattle]
+tags: [photography, seattle, architecture]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2004-06-14-seattle-night/DSCN5669.JPG)

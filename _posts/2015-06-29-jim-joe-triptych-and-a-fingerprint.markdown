@@ -2,7 +2,7 @@
 layout: post
 title: "Jim Joe Triptych, Including a Fingerprint"
 date: 2015-06-29
-tags: [jimjoe, art collection]
+tags: [jim joe, private collection]
 comments: true
 ---
 A Jim Joe triptich, from my personal collection. I bought these directly from him, although we never met and the exchange was made via doorman and delivery in 2011 or so.

@@ -2,7 +2,7 @@
 layout: post
 title: "American Realness"
 date: 2016-01-08
-tags: [shows, art, performance]
+tags: [theatre, performance art]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2016-01-08-american-realness/fernando-belfiore.jpg)

@@ -2,8 +2,7 @@
 layout: post
 title: "Rapture, a Space Virgin Party, Seattle"
 date: 2003-07-26
-
-tags: [posters, digital, space virgins]
+tags: [posters, digital art, space virgins, parties, flyers, seattle]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2003-07-26-rapture/07-26-2003-rapture-front.jpg)

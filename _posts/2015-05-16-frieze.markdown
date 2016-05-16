@@ -2,7 +2,7 @@
 layout: post
 title: "Frize, New York, 2015"
 date: 2015-05-16
-tags: [shows, art]
+tags: [art fairs]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2015-05-16-frieze/activating.jpg)

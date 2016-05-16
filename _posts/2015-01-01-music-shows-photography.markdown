@@ -2,7 +2,7 @@
 layout: post
 title: "Music Shows Photography Favorites"
 date: 2015-01-01
-tags: [posters, digital, space virgins]
+tags: [photography, music shows]
 comments: true
 pinned: true
 ---

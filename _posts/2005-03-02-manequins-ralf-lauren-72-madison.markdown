@@ -2,7 +2,7 @@
 layout: post
 title: "Manequins at Ralf Lauren on 72nd and Madison"
 date: 2005-03-02
-tags: [photos, commercial]
+tags: [photography, new york, commercial]
 comments: true
 ---
 Commercial work.

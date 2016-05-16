@@ -2,7 +2,7 @@
 layout: post
 title: "Ledge Pond Omelet Gallery"
 date: 2008-07-19
-tags: [photos, food]
+tags: [photography, food]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-07-19-ledge-pond-omelet-gallery/DSC_1607.jpg)

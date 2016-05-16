@@ -2,7 +2,7 @@
 layout: post
 title: "Godberg at Park Avenue Armory"
 date: 2015-12-15
-tags: [piano, marina abramovic, music, shows]
+tags: [music shows]
 comments: true
 ---
 Wow.

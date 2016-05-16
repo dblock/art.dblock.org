@@ -2,7 +2,7 @@
 layout: post
 title: "Washington DC"
 date: 2005-06-19
-tags: [photos, architecture, washington dc]
+tags: [photography, architecture, washington dc, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-06-19-washington-dc/DSC_5423.jpg)

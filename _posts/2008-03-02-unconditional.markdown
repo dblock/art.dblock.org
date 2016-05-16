@@ -2,7 +2,7 @@
 layout: post
 title: "Unconditional"
 date: 2008-03-02
-tags: [shows, off-broadway]
+tags: [theatre]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-03-02-unconditional/unconditional.jpg)

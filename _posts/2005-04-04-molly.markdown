@@ -2,7 +2,7 @@
 layout: post
 title: "Molly"
 date: 2005-04-04
-tags: [photos, models]
+tags: [photography, people, models]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-04-04-molly/DSC_8615.JPG)

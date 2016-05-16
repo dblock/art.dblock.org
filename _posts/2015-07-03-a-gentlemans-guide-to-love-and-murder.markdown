@@ -2,7 +2,7 @@
 layout: post
 title: "A Gentleman's Guide to Love and Murder"
 date: 2015-07-03
-tags: [broadway, musical, show]
+tags: [broadway shows, musicals, theatre]
 comments: true
 ---
 You will wonder why everybody loves this show for about half an hour, then it will be awesome. Highly recommended.

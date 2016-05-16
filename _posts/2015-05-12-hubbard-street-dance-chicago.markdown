@@ -2,7 +2,7 @@
 layout: post
 title: "Hubbard Street Dance Chicago"
 date: 2015-05-12
-tags: [dance, shows]
+tags: [theatre]
 comments: true
 ---
 At the Joyce.

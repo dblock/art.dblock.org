@@ -2,7 +2,7 @@
 layout: post
 title: "Geneva & Samoens"
 date: 2005-01-22
-tags: [photos, geneva, samoens, switzerland, france]
+tags: [photography, geneva, samoens, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-01-22-geneva-and-samoens/DSC_0996.JPG)

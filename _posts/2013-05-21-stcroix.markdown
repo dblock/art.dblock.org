@@ -2,7 +2,7 @@
 layout: post
 title: "St. Croix, USVI"
 date: 2013-05-21
-tags: [photos, usvi]
+tags: [photography, usvi, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2013-05-21-stcroix/18808-DSC_9322.jpg)

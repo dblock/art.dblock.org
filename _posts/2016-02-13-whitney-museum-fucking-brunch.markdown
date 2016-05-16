@@ -2,7 +2,7 @@
 layout: post
 title: "Whitney Museum: Same Old Fucking Brunch"
 date: 2016-02-13
-tags: [whitney museum, kids]
+tags: [museums, kids]
 comments: true
 ---
 [Laura Poitras: Astro Noise](http://whitney.org/Exhibitions/LauraPoitras)

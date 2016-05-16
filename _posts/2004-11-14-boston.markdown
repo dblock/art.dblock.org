@@ -2,8 +2,7 @@
 layout: post
 title: "Boston, MA"
 date: 2004-11-14
-
-tags: [photography, boston]
+tags: [photography, boston, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2004-11-14-boston/DSCN2333.JPG)

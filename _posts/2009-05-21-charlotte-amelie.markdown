@@ -2,7 +2,7 @@
 layout: post
 title: "Charlotte-Amelie, USVI"
 date: 2009-05-21
-tags: [photos, usvi]
+tags: [photography, usvi, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2009-05-21-charlotte-amelie/DSC_5553.jpg)

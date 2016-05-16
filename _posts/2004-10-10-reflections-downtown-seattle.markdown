@@ -2,7 +2,6 @@
 layout: post
 title: "Reflections, Downtown Seattle"
 date: 2004-10-10
-
 tags: [photography, seattle]
 comments: true
 ---

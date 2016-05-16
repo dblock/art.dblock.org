@@ -2,7 +2,7 @@
 layout: post
 title: "The Hyatt Sisters"
 date: 2005-08-28
-tags: [photos, kids]
+tags: [photography, kids, people, models]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2005-08-28-the-hyatt-sisters/DSC_9799.jpg)

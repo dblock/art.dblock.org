@@ -2,7 +2,7 @@
 layout: post
 title: "Hypnosis at Park Avenue Armory"
 date: 2015-06-10
-tags: [shows, art]
+tags: [art shows]
 comments: true
 ---
 [Philippe Pareno's H {N)Y P N(Y} OSIS](http://www.armoryonpark.org/programs_events/detail/philippe_parreno). Not so much.

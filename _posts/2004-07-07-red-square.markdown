@@ -2,7 +2,7 @@
 layout: post
 title: "Red Square, a Humble Tribute to Kasimir Malevich"
 date: 2004-07-07
-tags: [drawing, sanguine]
+tags: [drawing, sanguines]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2004-07-07-red-square/DSCN7359.jpg)

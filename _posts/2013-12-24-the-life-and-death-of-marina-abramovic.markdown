@@ -2,7 +2,7 @@
 layout: post
 title: "The Life and Death of Marina Abramović"
 date: 2013-12-24
-tags: [shows, armory]
+tags: [theatre]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2013-12-24-the-life-and-death-of-marina-abramovic/gazette.jpg)

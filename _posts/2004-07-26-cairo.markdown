@@ -2,7 +2,7 @@
 layout: post
 title: "Cairo, Egypt"
 date: 2004-07-26
-tags: [cairo, egypt, photography]
+tags: [cairo, egypt, photography, architecture, travels]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2004-07-26-cairo/DSCN8834.JPG)

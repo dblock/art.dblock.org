@@ -2,7 +2,7 @@
 layout: post
 title: "Voodoo: a Lost Harlem Renaissance Opera"
 date: 2015-06-27
-tags: [shows, music, opera, harlem]
+tags: [theatre]
 comments: true
 ---
 This was really excellent. [Here's](http://omnifeed.com/article/www.theguardian.com/music/2015/jun/27/voodoo-review-harlem-renaissance-opera) a good review from the Guardian.

@@ -2,7 +2,7 @@
 layout: post
 title: "Dance the Art Genome & The Algorithm Auction at the Cooper Hewitt"
 date: 2015-03-27
-tags: [art, dance, choreography, ruse labs, arts]
+tags: [art shows, artsy]
 comments: true
 ---
 [Kate Sicchio](https://twitter.com/sicchio) and I have been collaborating on a little dance project called [Dance the Art Genome](github.com/dblock/dance-the-art-genome). It premiered at the Ruse Labs after-party for the Artsy Algorithm Auction, held at the Cooper Hewitt Museum. Performed by Kim Machaby.

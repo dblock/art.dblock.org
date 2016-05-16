@@ -2,7 +2,7 @@
 layout: post
 title: "How To Frame and Hang Very Big Drawings"
 date: 2007-12-18
-tags: []
+tags: [drawing]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2007-12-18-big-frame-hanging/DSCN8842.JPG)

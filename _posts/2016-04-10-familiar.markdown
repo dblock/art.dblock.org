@@ -2,7 +2,7 @@
 layout: post
 title: "Familiar"
 date: 2016-04-10
-tags: [theatre, shows]
+tags: [theatre]
 comments: true
 ---
 [Familiar at Playwrights Horizons](https://www.playwrightshorizons.org/shows/plays/familiar)
