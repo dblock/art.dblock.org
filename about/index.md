@@ -6,7 +6,7 @@ modified: 2015-01-01
 comments: false
 ---
 <img src='/images/about/mebyj.png' width='240'>
-<small>me, photo collage (c) Josh Sellers, 2004</small>
+<br><small>me, photo collage (c) Josh Sellers, 2004</small>
 
 I am a Russian-born, New York-based technologist and artist. I learned to draw in Moscow, former USSR and am CTO at [artsy.net](https://www.artsy.net). This blog catalogues my own work, including [large sanguine drawings](/2015/01/02/large-sanguine-drawings.html), [photography](/2015/01/01/photography.html), [works in my private collection](/tags/private%20collection/) and [many more art-related topics](/tags/).
 
