@@ -192,7 +192,7 @@ $button-size: 1.5rem;
 	}
 }
 // Displaying the menu when the user has clicked on the button
-.js .nav .active ul {
+.js .nav .active + ul {
 	max-height: 30em;
 	overflow: hidden;
 	-webkit-transition: max-height .4s;
@@ -255,8 +255,8 @@ $button-size: 1.5rem;
 			margin-bottom: 4px;
 			@include font-rem(20);
 			&.link-post {
-				margin-bottom: 0px $doc-line-height;
-				margin-bottom: 0rem ($doc-line-height / $doc-font-size);
+				margin-bottom: 0px + $doc-line-height;
+				margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
 			}
 		}
 		p {
@@ -748,5 +748,16 @@ $button-size: 1.5rem;
 // --------------------------------------------------
 .license {
 	margin-top: 20px;
-	margin-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+// Suggest and RSS Boxes
+// --------------------------------------------------
+.suggest, .rss {
+  font-size: 80%;
+  font-style: italic;
+}
+
+.suggest {
+  margin-top: 10px;
 }
