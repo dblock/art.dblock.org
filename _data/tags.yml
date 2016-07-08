@@ -9,13 +9,13 @@ art shows:
   count: 27
 artsy:
   name: artsy
-  count: 13
+  count: 20
 auctions:
   name: auctions
-  count: 6
+  count: 8
 broadway:
   name: broadway
-  count: 12
+  count: 13
 brooklyn:
   name: brooklyn
   count: 5
@@ -36,10 +36,10 @@ jim joe:
   count: 5
 kids:
   name: kids
-  count: 7
+  count: 9
 loft:
   name: loft
-  count: 7
+  count: 9
 me me:
   name: me me
   count: 10
@@ -51,7 +51,7 @@ moma:
   count: 5
 music:
   name: music
-  count: 5
+  count: 9
 new york:
   name: new york
   count: 24
@@ -66,13 +66,13 @@ photography:
   count: 88
 plays:
   name: plays
-  count: 22
+  count: 28
 posters:
   name: posters
   count: 7
 private collection:
   name: private collection
-  count: 15
+  count: 18
 sanguines:
   name: sanguines
   count: 20

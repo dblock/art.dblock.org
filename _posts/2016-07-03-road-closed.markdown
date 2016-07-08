@@ -2,7 +2,7 @@
 layout: post
 title: "Road Closed"
 date: 2016-07-03
-tags: [street art]
+tags: [street art, private collection]
 comments: true
 ---
 Another street art addition!
