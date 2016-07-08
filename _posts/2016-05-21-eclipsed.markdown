@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Eclipsed at Golden Theatre"
+date: 2016-05-21
+tags: [broadway, plays]
+comments: true
+---
+[Eclipsed](http://www.eclipsedbroadway.com)
+
+![]({{ site.url }}/images/posts/2016-05-21-eclipsed/eclipsed.jpg)
+

@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: broadway shows
-permalink: /tags/broadway shows/
+tag: broadway
+permalink: /tags/broadway/
 ---

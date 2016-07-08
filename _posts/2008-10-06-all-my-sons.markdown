@@ -2,7 +2,7 @@
 layout: post
 title: "Arthur Miller's All My Sons"
 date: 2008-10-06
-tags: [plays, theatre, broadway shows]
+tags: [plays, theatre, broadway]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-10-06-all-my-sons/allmysons.jpg)

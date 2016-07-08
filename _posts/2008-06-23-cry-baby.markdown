@@ -2,7 +2,7 @@
 layout: post
 title: "Cry Baby"
 date: 2008-06-23
-tags: [theatre, broadway shows]
+tags: [theatre, broadway]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2008-06-23-cry-baby/crybaby.jpg)

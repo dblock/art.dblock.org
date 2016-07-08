@@ -2,7 +2,7 @@
 layout: post
 title: "Music Shows Photography Favorites"
 date: 2015-01-01
-tags: [photography, music shows]
+tags: [photography, music]
 comments: true
 pinned: true
 ---

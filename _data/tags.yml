@@ -13,8 +13,8 @@ artsy:
 auctions:
   name: auctions
   count: 6
-broadway shows:
-  name: broadway shows
+broadway:
+  name: broadway
   count: 12
 brooklyn:
   name: brooklyn
@@ -49,8 +49,8 @@ models:
 moma:
   name: moma
   count: 5
-music shows:
-  name: music shows
+music:
+  name: music
   count: 5
 new york:
   name: new york

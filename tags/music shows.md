@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: music shows
-permalink: /tags/music shows/
+tag: music
+permalink: /tags/music/
 ---

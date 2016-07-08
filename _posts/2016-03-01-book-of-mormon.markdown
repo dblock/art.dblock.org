@@ -2,7 +2,7 @@
 layout: post
 title: "Book of Mormon"
 date: 2016-03-01
-tags: [theatre, broadway shows]
+tags: [theatre, broadway]
 comments: true
 ---
 [Book of Mormon](http://bookofmormonbroadway.com)

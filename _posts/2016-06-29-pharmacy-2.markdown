@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Damien Hirst's Pharmacy-2"
+date: 2016-06-29
+tags: [restaurants]
+comments: true
+---
+[Pharmacy 2](http://www.pharmacyrestaurant.com)
+
+![]({{ site.url }}/images/posts/2016-06-29-pharmacy-2/restaurant.jpg)
+
