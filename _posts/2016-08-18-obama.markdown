@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Obama at Artsy"
+date: 2016-08-18
+tags: [shows]
+comments: true
+---
+Obama, The [Artsy](https://www.artsy.net) Art Salon.
+
+![]({{ site.url }}/images/posts/2016-08-18-obama/obama-at-artsy.jpg)
+

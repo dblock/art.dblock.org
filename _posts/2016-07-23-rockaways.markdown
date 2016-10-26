@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "rockaways"
+title: "Rockaway!"
 date: 2016-07-23
 tags: [art shows, installations]
 comments: true
