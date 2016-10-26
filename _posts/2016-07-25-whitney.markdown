@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Whitney Museum"
+date: 2016-07-25
+tags: [museums, art shows]
+comments: true
+---
+![]({{ site.url }}/images/posts/2016-07-25-whitney/lecture.jpg)
+
+![]({{ site.url }}/images/posts/2016-07-25-whitney/devices.jpg)
+
+![]({{ site.url }}/images/posts/2016-07-25-whitney/discuss.jpg)
+
+![]({{ site.url }}/images/posts/2016-07-25-whitney/kid.jpg)
+
+![]({{ site.url }}/images/posts/2016-07-25-whitney/lady.jpg)
+
+
