@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Chelsea Galleries"
+date: 2016-09-17
+tags: []
+comments: true
+---
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/me-lars-fisk.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/cheese.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/horsemilk.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/lars-fisk.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/monkey.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/rashidjohnson.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/red.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/sollewitt.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/osgemeos.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-17-chelsea/osgemeos-ps11.jpg)

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Art Party in Flatiron"
+date: 2016-09-09
+tags: [parties]
+comments: true
+---
+![]({{ site.url }}/images/posts/2016-09-09-art-party/drawings.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-09-art-party/people1.jpg)
+
+![]({{ site.url }}/images/posts/2016-09-09-art-party/step.jpg)
+
