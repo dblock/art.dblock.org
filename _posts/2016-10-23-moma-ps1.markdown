@@ -1,0 +1,22 @@
+---
+layout: post
+title: "MOMA PS1"
+date: 2016-10-23
+tags: [art shows]
+comments: true
+---
+MOMA PS1
+
+![]({{ site.url }}/images/posts/2016-10-23-moma-ps1/feix-the-cat.jpg)
+
+![]({{ site.url }}/images/posts/2016-10-23-moma-ps1/chalk.jpg)
+
+![]({{ site.url }}/images/posts/2016-10-23-moma-ps1/power.jpg)
+
+![]({{ site.url }}/images/posts/2016-10-23-moma-ps1/restaurant.jpg)
+
+![]({{ site.url }}/images/posts/2016-10-23-moma-ps1/samsung-fridge.jpg)
+
+A cameo appearance by Klaus Biesenbach, the curator.
+
+![]({{ site.url }}/images/posts/2016-10-23-moma-ps1/klaus-biesenbach.jpg)
