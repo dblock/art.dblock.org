@@ -3,10 +3,10 @@ architecture:
   count: 10
 art fairs:
   name: art fairs
-  count: 7
+  count: 8
 art shows:
   name: art shows
-  count: 32
+  count: 35
 artsy:
   name: artsy
   count: 20
@@ -24,7 +24,7 @@ digital art:
   count: 17
 drawing:
   name: drawing
-  count: 29
+  count: 30
 flyers:
   name: flyers
   count: 9
@@ -33,7 +33,7 @@ food:
   count: 5
 jim joe:
   name: jim joe
-  count: 5
+  count: 6
 kids:
   name: kids
   count: 11
@@ -60,7 +60,7 @@ new york:
   count: 24
 parties:
   name: parties
-  count: 15
+  count: 16
 people:
   name: people
   count: 14
@@ -75,7 +75,7 @@ posters:
   count: 7
 private collection:
   name: private collection
-  count: 21
+  count: 22
 sanguines:
   name: sanguines
   count: 20
@@ -90,10 +90,10 @@ space virgins:
   count: 6
 street art:
   name: street art
-  count: 6
+  count: 9
 theatre:
   name: theatre
-  count: 41
+  count: 42
 travels:
   name: travels
-  count: 23
+  count: 25
