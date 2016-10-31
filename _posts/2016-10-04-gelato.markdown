@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Gelato"
+date: 2016-10-04
+tags: [street art, private collection]
+comments: true
+---
+New street find!
+
+![]({{ site.url }}/images/posts/2016-10-04-gelato/gelato.jpg)
+
