@@ -1,0 +1,11 @@
+---
+layout: post
+title: "@wormnlct"
+date: 2016-10-25
+tags: [street art]
+comments: true
+---
+New addition to my permanent collection.
+
+![]({{ site.url }}/images/posts/2016/2016-10-25-wormnlct/sticker.jpg)
+

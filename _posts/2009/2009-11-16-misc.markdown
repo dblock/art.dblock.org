@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Restaurnat Doors"
+date: 2009-11-16
+tags: [photography, restaurants]
+comments: true
+---
+![]({{ site.url }}/images/posts/2009/2009-11-16-misc/15818-DSC_8512.jpg)
+
+![]({{ site.url }}/images/posts/2009/2009-11-16-misc/15864-DSC_8617.jpg)
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Act of God"
+date: 2016-06-15
+tags: [plays]
+comments: true
+---
+I didn't expect much, but [Act of God](http://anactofgod.com/) was truly terrible.
+
+![]({{ site.url }}/images/posts/2016/2016-06-15-act-of-god/act-of-god.jpg)
+

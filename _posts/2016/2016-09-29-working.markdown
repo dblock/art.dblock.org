@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Working"
+date: 2016-09-29
+tags: [shows, theatre]
+comments: true
+---
+[Working](http://seattlemusical.org/portfolio/working) at Seattle Musical Theatre.
+
+![]({{ site.url }}/images/posts/2016/2016-09-29-working/cast.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-09-29-working/working.jpg)
+

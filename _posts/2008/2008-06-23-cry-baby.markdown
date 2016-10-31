@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Cry Baby"
+date: 2008-06-23
+tags: [theatre, broadway]
+comments: true
+---
+![]({{ site.url }}/images/posts/2008/2008-06-23-cry-baby/crybaby.jpg)
+
+I was very lucky to see "Cry Baby" on Broadway last week, before it closed on the 22nd of June. Sad. I really enjoyed it.

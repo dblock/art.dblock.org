@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Ksu"
+date: 2005-04-30
+tags: [photography, people, models]
+comments: true
+---
+![]({{ site.url }}/images/posts/2005/2005-04-30-ksu/ksu01.jpg)
+
+![]({{ site.url }}/images/posts/2005/2005-04-30-ksu/ksu02.jpg)
+
+![]({{ site.url }}/images/posts/2005/2005-04-30-ksu/ksu03.jpg)
+
+![]({{ site.url }}/images/posts/2005/2005-04-30-ksu/ksu04.jpg)
+
+![]({{ site.url }}/images/posts/2005/2005-04-30-ksu/ksu05.jpg)
+
+![]({{ site.url }}/images/posts/2005/2005-04-30-ksu/ksu06.jpg)
+
+![]({{ site.url }}/images/posts/2005/2005-04-30-ksu/ksu07.jpg)
+
+![]({{ site.url }}/images/posts/2005/2005-04-30-ksu/ksu08.jpg)
+

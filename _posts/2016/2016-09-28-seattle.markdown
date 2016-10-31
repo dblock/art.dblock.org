@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Seattle"
+date: 2016-09-28
+tags: [travel]
+comments: true
+---
+![]({{ site.url }}/images/posts/2016/2016-09-28-seattle/space-needle.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-09-28-seattle/clockdv8.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-09-28-seattle/lenin-was-a-lover.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-09-28-seattle/scrapers.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-09-28-seattle/view.jpg)
+

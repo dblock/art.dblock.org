@@ -1,9 +1,0 @@
----
-layout: post
-title: "Elsa, Pool"
-date: 2004-06-29
-tags: [people, photography, pool, loft]
-comments: true
----
-![]({{ site.url }}/images/posts/2004-06-29-elsa-pool/DSCN6597.JPG)
-

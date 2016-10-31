@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Frize, New York, 2015"
+date: 2015-05-16
+tags: [art fairs]
+comments: true
+---
+![]({{ site.url }}/images/posts/2015/2015-05-16-frieze/activating.jpg)
+
+![]({{ site.url }}/images/posts/2015/2015-05-16-frieze/manhattan.jpg)
+
+![]({{ site.url }}/images/posts/2015/2015-05-16-frieze/kids.jpg)
+
+![]({{ site.url }}/images/posts/2015/2015-05-16-frieze/before-after.jpg)
+
+![]({{ site.url }}/images/posts/2015/2015-05-16-frieze/yes-no.jpg)
+

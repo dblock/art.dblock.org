@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Phillips Auction"
+date: 2016-09-20
+tags: [auctions]
+comments: true
+---
+[Bid on Artsy](https://www.artsy.net/auctions).
+
+![]({{ site.url }}/images/posts/2016/2016-09-20-phillips/auction.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-09-20-phillips/amazing.jpg)
+
+

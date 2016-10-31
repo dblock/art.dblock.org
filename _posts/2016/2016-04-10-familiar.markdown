@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Familiar"
+date: 2016-04-10
+tags: [theatre]
+comments: true
+---
+[Familiar at Playwrights Horizons](https://www.playwrightshorizons.org/shows/plays/familiar)
+
+![]({{ site.url }}/images/posts/2016/2016-04-10-familiar/playbill.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-04-10-familiar/stage.jpg)
+

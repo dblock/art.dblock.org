@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Chelsea Art Walk"
+date: 2016-06-11
+tags: [chelsea]
+comments: true
+---
+![]({{ site.url }}/images/posts/2016/2016-06-11-chelsea/drawing.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-06-11-chelsea/james-turell.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-06-11-chelsea/laying.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-06-11-chelsea/plates.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-06-11-chelsea/serra.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-06-11-chelsea/serra2.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-06-11-chelsea/women.jpg)
+

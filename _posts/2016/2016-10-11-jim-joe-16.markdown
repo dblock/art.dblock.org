@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Jim Joe 16"
+date: 2016-10-11
+tags: [street art, jim joe]
+comments: true
+---
+Want.
+
+![]({{ site.url }}/images/posts/2016/2016-10-11-jim-joe-16/box.jpg)
+

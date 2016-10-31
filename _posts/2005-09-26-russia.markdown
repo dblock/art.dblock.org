@@ -1,9 +1,0 @@
----
-layout: post
-title: "Russia!"
-date: 2005-09-26
-tags: [photography, art shows, new york]
-comments: true
----
-![]({{ site.url }}/images/posts/2005-09-26-russia/DSC_1108.jpg)
-

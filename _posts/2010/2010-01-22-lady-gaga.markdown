@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Lady Gaga Oh La La"
+date: 2010-01-22
+tags: [music]
+comments: true
+---
+![]({{ site.url }}/images/posts/2010/2010-01-22-lady-gaga/ticket.jpg)
+

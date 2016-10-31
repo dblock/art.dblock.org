@@ -1,0 +1,10 @@
+---
+layout: post
+title: "5150 at The Brick"
+date: 2015-06-24
+tags: [plays, theatre]
+comments: true
+---
+![]({{ site.url }}/images/posts/2015/2015-06-24-5150-at-the-brick/playbill.jpg)
+
+Some people call Lula crazy, but she swears it’s not true. By Tinka Jonakova.

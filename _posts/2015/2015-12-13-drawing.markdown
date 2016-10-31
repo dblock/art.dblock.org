@@ -1,0 +1,9 @@
+---
+layout: post
+title: "A Drawing"
+date: 2015-12-13
+tags: [drawing, sanguines]
+comments: true
+---
+![]({{ site.url }}/images/posts/2015/2015-12-13-drawing/drawing.jpg)
+

@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Berlin"
+date: 2010-01-02
+tags: [photography, berlin, travels]
+comments: true
+---
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9410.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9411.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9413.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9417.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9425.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9431.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9476.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9479.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9485.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9486.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9487.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9491.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9493.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9494.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9536.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9538.jpg)
+
+![]({{ site.url }}/images/posts/2010/2010-01-02-berlin/DSC_9560.jpg)
+

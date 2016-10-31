@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Flat File"
+date: 2015-06-28
+tags: [loft]
+comments: true
+---
+Bought a flat file from a [warehouse in Gowanus](http://lmgtfy.com/?q=gowanus+flat+file+craigslist). Although it has no markings, I am pretty sure this is a Cole-Steel, maybe from the 60s. It's a rare-ish smaller version, holding 18x24 paper with external dimensions of 22 1/2 x 30''.
+
+![]({{ site.url }}/images/posts/2015/2015-06-28-flat-file/front.jpg)
+
+![]({{ site.url }}/images/posts/2015/2015-06-28-flat-file/side.jpg)
+
