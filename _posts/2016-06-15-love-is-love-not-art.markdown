@@ -9,3 +9,10 @@ New addition to our street art collection.
 
 ![]({{ site.url }}/images/posts/2016-06-15-love-is-love-not-art/love-is-love-not-art.jpg)
 
+Amazingly, someone took an IG photo of it before it was tagged!
+
+![]({{ site.url }}/images/posts/2016-06-15-love-is-love-not-art/before.jpg)
+
+And finally hung ...
+
+![]({{ site.url }}/images/posts/2016-06-15-love-is-love-not-art/hung.jpg)
