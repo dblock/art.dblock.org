@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Fiftieth"
+date: 2016-10-08
+tags: [parties]
+comments: true
+---
+When your neighbors have a grand piano ...
+
+![]({{ site.url }}/images/posts/2016-10-08-the-roberts-50/singer.jpg)
+
+![]({{ site.url }}/images/posts/2016-10-08-the-roberts-50/piano.jpg)
