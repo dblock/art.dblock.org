@@ -2,7 +2,7 @@
 layout: post
 title: "Obama at Artsy"
 date: 2016-08-18
-tags: [shows]
+tags: [shows, sanguines]
 comments: true
 ---
 Obama, The [Artsy](https://www.artsy.net) Art Salon.

@@ -2,7 +2,7 @@
 layout: post
 title: "Hometown Gallery Opening"
 date: 2016-02-27
-tags: [art shows]
+tags: [art shows, galleries]
 comments: true
 ---
 A former colleague of mine opened a new gallery, [Hometown](http://www.hometownart.com).

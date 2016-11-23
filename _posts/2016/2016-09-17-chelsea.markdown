@@ -2,7 +2,7 @@
 layout: post
 title: "Chelsea Galleries"
 date: 2016-09-17
-tags: []
+tags: [chelsea, galleries]
 comments: true
 ---
 Follow us on Instagram [@kidsandsharks](https://www.instagram.com/kidsandsharks).

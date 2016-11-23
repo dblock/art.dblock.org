@@ -2,7 +2,7 @@
 layout: post
 title: "Anohni at Park Avenue Armory"
 date: 2016-05-18
-tags: [shows]
+tags: [shows, music]
 comments: true
 ---
 Hopelessness, [Anohni](http://anohni.com) at Park Avenue Armory, formerly known Antony Hegarty or Antony from "Antony and the Johnsons" or "Hercules and Love Affair".

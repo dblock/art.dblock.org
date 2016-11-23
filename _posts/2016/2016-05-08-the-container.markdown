@@ -2,7 +2,7 @@
 layout: post
 title: "Container Container: Mollie Thurman Oyster Traps"
 date: 2016-05-08
-tags: [art shows]
+tags: [art shows, galleries]
 comments: true
 ---
 Mollie Thurman Oyster Traps at [Container Container](http://fastnet.nyc). More [here](http://fastnet.nyc/mollie-thurman-oyster-traps/).

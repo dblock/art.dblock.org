@@ -2,7 +2,7 @@
 layout: post
 title: "Artsy Onsite: Friedman Benda"
 date: 2016-06-22
-tags: [artsy, onsite]
+tags: [artsy, onsite, galleries, chelsea]
 comments: true
 ---
 [Andile Dyavane](https://www.artsy.net/artist/andile-dyalvane)

@@ -2,7 +2,7 @@
 layout: post
 title: "Skeleton Crew at Linda Gross Theatre"
 date: 2016-05-31
-tags: [plays]
+tags: [plays, broadway, theatre]
 comments: true
 ---
 [Skeleton Crew](https://atlantictheater.org/playevents/skeletoncrew)

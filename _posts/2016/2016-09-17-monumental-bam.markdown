@@ -2,7 +2,7 @@
 layout: post
 title: "Monumental at BAM"
 date: 2016-09-17
-tags: [theatre, ballet]
+tags: [theatre, dance]
 comments: true
 ---
 [Monumental](http://www.bam.org/dance/2016/monumental), an incredible performance at the BAM, with "Godspeed You! Black Emperor" performing live.

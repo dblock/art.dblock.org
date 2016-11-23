@@ -2,7 +2,7 @@
 layout: post
 title: "MOMA PS1"
 date: 2016-10-23
-tags: [art shows]
+tags: [art shows, museums]
 comments: true
 ---
 MOMA PS1

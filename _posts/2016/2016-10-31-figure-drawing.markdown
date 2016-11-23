@@ -2,7 +2,7 @@
 layout: post
 title: "October Figure Drawing"
 date: 2016-10-31
-tags: [drawing]
+tags: [drawing, sanguines]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2016/2016-10-31-figure-drawing/2016-10-12-1.jpg)

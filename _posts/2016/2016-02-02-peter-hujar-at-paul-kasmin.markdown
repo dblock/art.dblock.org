@@ -2,7 +2,7 @@
 layout: post
 title: "Peter Hujar at Paul Kasmin"
 date: 2016-02-02
-tags: [artsy, art shows]
+tags: [artsy, art shows, galleries, onsite]
 comments: true
 ---
 Peter Hujar: Lost Downtown, Artsy, Pace/MacGill Gallery, and Paul Kasmin Gallery hosted a panel discussion featuring Vince Aletti, Fran Lebowitz, Gary Schneider, and Joel Smith at Hotel Americano. Moderated by Matthew Israel.

@@ -2,7 +2,7 @@
 layout: post
 title: "Thomas Ruff at David Zwirner"
 date: 2016-04-16
-tags: [art shows]
+tags: [art shows, artsy, onsite]
 comments: true
 ---
 A private walkthrough of Thomas Ruff: press++, at David Zwirner Gallery, led by Sophie Hackett, Associate Curator of Photography at the Art Gallery of Ontario, introduced by Matthew Israel.

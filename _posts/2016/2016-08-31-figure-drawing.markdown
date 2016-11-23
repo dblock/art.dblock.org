@@ -2,7 +2,7 @@
 layout: post
 title: "August Figure Drawing"
 date: 2016-08-31
-tags: [drawing]
+tags: [drawing, sanguines]
 comments: true
 ---
 Back to figure drawing with the [Drawing New York Meetup Group](https://www.meetup.com/drawingnewyork/). Join in!

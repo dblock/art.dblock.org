@@ -2,7 +2,7 @@
 layout: post
 title: "A.P.E."
 date: 2016-08-27
-tags: [parties]
+tags: [parties, ape, events]
 comments: true
 ---
 I got involved with [A.P.E., Art Projects Era](http://www.artprojectsera.org).

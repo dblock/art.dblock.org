@@ -2,7 +2,7 @@
 layout: post
 title: "Berlinde De Bruyckere: No Life Lost at Hauser & Wirth"
 date: 2016-01-30
-tags: [art shows]
+tags: [art shows, galleries]
 comments: true
 ---
 Berlinde De Bruyckere, No Life Lost

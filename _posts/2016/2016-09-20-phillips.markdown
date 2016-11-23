@@ -2,7 +2,7 @@
 layout: post
 title: "Phillips Auction"
 date: 2016-09-20
-tags: [auctions]
+tags: [auctions, artsy]
 comments: true
 ---
 [Bid on Artsy](https://www.artsy.net/auctions).

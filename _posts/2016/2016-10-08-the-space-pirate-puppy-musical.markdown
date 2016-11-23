@@ -2,7 +2,7 @@
 layout: post
 title: "The Space Pirate Puppy Musical"
 date: 2016-10-08
-tags: [theatre]
+tags: [theatre, plays]
 comments: true
 ---
 Crazy show at the Krine theatre.

@@ -2,7 +2,7 @@
 layout: post
 title: "Election Machines at Bitforms"
 date: 2016-11-05
-tags: [art shows]
+tags: [art shows, galleries, lower east side, new media]
 comments: true
 ---
 By Luke Dubois.

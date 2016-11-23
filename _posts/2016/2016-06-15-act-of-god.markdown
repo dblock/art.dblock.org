@@ -2,7 +2,7 @@
 layout: post
 title: "Act of God"
 date: 2016-06-15
-tags: [plays]
+tags: [plays, broadway, theatre]
 comments: true
 ---
 I didn't expect much, but [Act of God](http://anactofgod.com/) was truly terrible.

@@ -2,7 +2,7 @@
 layout: post
 title: "Working"
 date: 2016-09-29
-tags: [shows, theatre]
+tags: [shows, theatre, musicals]
 comments: true
 ---
 [Working](http://seattlemusical.org/portfolio/working) at Seattle Musical Theatre.

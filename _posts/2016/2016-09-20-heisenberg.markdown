@@ -2,7 +2,7 @@
 layout: post
 title: "Heisenberg"
 date: 2016-09-20
-tags: [shows, theatre]
+tags: [shows, theatre, broadway, plays]
 comments: true
 ---
 [Heisenberg](http://heisenbergbroadway.com) at Samuel J. Friedman Theatre.

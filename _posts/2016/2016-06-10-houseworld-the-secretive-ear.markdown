@@ -2,7 +2,7 @@
 layout: post
 title: "Houseworld Presents: The Secretive Ear"
 date: 2016-06-10
-tags: [shows]
+tags: [shows, immersive theatre]
 comments: true
 ---
 From the makers of [Houseworld](https://www.kickstarter.com/projects/1536058203/houseworld).

@@ -2,7 +2,7 @@
 layout: post
 title: "Tree of Codes"
 date: 2015-09-17
-tags: [theatre]
+tags: [theatre, dance]
 comments: true
 ---
 Phenomenal [Tree of Codes](http://www.armoryonpark.org/programs_events/detail/tree_of_codes) at the Park Avenue Armory.

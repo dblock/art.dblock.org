@@ -2,7 +2,7 @@
 layout: post
 title: "Eclipsed at Golden Theatre"
 date: 2016-05-21
-tags: [broadway, plays]
+tags: [broadway, plays, theatre]
 comments: true
 ---
 [Eclipsed](http://www.eclipsedbroadway.com)
