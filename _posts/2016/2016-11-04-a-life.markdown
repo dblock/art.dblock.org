@@ -1,0 +1,12 @@
+---
+layout: post
+title: "A Life"
+date: 2016-11-04
+tags: [theatre, broadway, plays]
+comments: true
+---
+A brilliant play starring Frasier's brother.
+
+![]({{ site.url }}/images/posts/2016/2016-11-04-a-life/tix.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-11-04-a-life/life.jpg)

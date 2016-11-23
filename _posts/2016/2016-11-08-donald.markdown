@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Donald Trump's Wall"
+date: 2016-11-08
+tags: [politics, photography]
+comments: true
+---
+![]({{ site.url }}/images/posts/2016/2016-11-08-donald/wall.jpg)
+

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Drawing Men"
+date: 2016-11-07
+tags: [figure drawing, sanguines]
+comments: true
+---
+From two separate sessions.
+
+![]({{ site.url }}/images/posts/2016/2016-11-07-drawing/drawing.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-11-07-drawing/man.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-11-07-drawing/strong.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-11-07-drawing/laying.jpg)
+
+The drawing scene at the National Arts Club ...
+
+![]({{ site.url }}/images/posts/2016/2016-11-07-drawing/pose.jpg)
