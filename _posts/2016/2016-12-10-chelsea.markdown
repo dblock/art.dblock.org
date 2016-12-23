@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Chelsea + Artsy Onsite at Galerie Lelong"
+date: 2016-12-10
+tags: [onsite, artsy, chelsea]
+comments: true
+---
+A rare selfie.
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/selfie-mirror.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/sheep.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/mirror-mirror.jpg)
+
+A cameo appearance by [@elenasoboleva](https://www.instagram.com/elenasoboleva) at [FLAG Foundation](http://flagartfoundation.org) wearing Snapticles ... I mean Spectacles.
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/elena-soboleva-flagg-foundation.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/feet-flagg-foundation.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/morgue-flagg-foundation.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/read-you-loud-unclear.jpg)
+
+And the Artsy onsite with Samuel Levi Jones at Galerie Lelong.
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/artsy-onsite-lelong-samuel-levi-jones.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/matt-israel-at-galerie-lelong.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-10-chelsea/artsy-onsite-lelong-samuel-levi-jones-flyer.jpg)
