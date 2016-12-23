@@ -3,13 +3,13 @@ architecture:
   count: 10
 art fairs:
   name: art fairs
-  count: 8
+  count: 9
 art shows:
   name: art shows
   count: 38
 artsy:
   name: artsy
-  count: 23
+  count: 25
 auctions:
   name: auctions
   count: 10
@@ -18,16 +18,16 @@ broadway:
   count: 19
 brooklyn:
   name: brooklyn
-  count: 5
+  count: 6
 chelsea:
   name: chelsea
-  count: 5
+  count: 6
 digital art:
   name: digital art
   count: 17
 drawing:
   name: drawing
-  count: 30
+  count: 31
 flyers:
   name: flyers
   count: 9
@@ -66,7 +66,7 @@ new york:
   count: 24
 onsite:
   name: onsite
-  count: 5
+  count: 7
 parties:
   name: parties
   count: 16
@@ -90,7 +90,7 @@ private collection:
   count: 23
 sanguines:
   name: sanguines
-  count: 25
+  count: 26
 seattle:
   name: seattle
   count: 18
@@ -108,4 +108,4 @@ theatre:
   count: 47
 travels:
   name: travels
-  count: 25
+  count: 26
