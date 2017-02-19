@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Francis Picabia, Nan Goldin, Russian Avant-Garde and Tiji Furihashi @ MOMA"
+date: 2016-12-23
+tags: [moma, museums, shows]
+comments: true
+---
+![]({{ site.url }}/images/posts/2016/2016-12-23-picabia/picabia.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-23-picabia/petite-fille.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-23-picabia/nan-goldin.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-23-picabia/revolutionary-impulse.jpg)
+
+![]({{ site.url }}/images/posts/2016/2016-12-23-picabia/tiji-furuhashi.jpg)
