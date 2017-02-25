@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Chelsea Art Walk"
+date: 2017-01-12
+tags: [chelsea, galleries]
+comments: true
+---
+[Portia Munson, PPOW](http://www.ppowgallery.com/artist/portia-munson)
+
+![]({{ site.url }}/images/posts/2017/2017-01-12-chelsea/bones.jpg)
+
+![]({{ site.url }}/images/posts/2017/2017-01-12-chelsea/bunnies.jpg)
+
+[Lee Bul, Lehmann Maupin](http://www.lehmannmaupin.com/exhibitions/2017-01-12_lee-bul)
+
+![]({{ site.url }}/images/posts/2017/2017-01-12-chelsea/pow.jpg)
+
+[Sorcery & Craft, Alan Stone Projects](http://www.allanstoneprojects.com/exhibitions/sorcery-craft)
+
+![]({{ site.url }}/images/posts/2017/2017-01-12-chelsea/sorcery.jpg)
+
