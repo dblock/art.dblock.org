@@ -27,4 +27,7 @@ comments: true
   Dir["#{images_path}/*"].each do |filename|
     file.write "![]({{ site.url }}/images/posts/#{post_year}/#{post_name}/#{File.basename(filename)})\n\n"
   end
+
+  `git add #{post_filename}`
+  `git add #{images_path}`
 end
