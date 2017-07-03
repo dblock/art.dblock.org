@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Bushwick"
+date: 2017-06-07
+tags: [subway]
+comments: true
+---
+![]({{ site.url }}/images/posts/2017/2017-06-07-bushwick/2017-06-07.jpg)
+
