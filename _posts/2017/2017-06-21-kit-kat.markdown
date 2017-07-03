@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Kit-Kat"
+date: 2017-06-21
+tags: [brands, candy]
+comments: true
+---
+![]({{ site.url }}/images/posts/2017/2017-06-21-kit-kat/2017-06-21.jpg)
+
