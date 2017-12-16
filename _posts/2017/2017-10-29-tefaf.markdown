@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Tefaf New York 2017"
+date: 2017-10-29
+tags: [art fairs]
+comments: true
+---
+![]({{ site.url }}/images/posts/2017/2017-10-29-tefaf/one.jpg)
+
+![]({{ site.url }}/images/posts/2017/2017-10-29-tefaf/two.jpg)
+
+![]({{ site.url }}/images/posts/2017/2017-10-29-tefaf/three.jpg)
+
+![]({{ site.url }}/images/posts/2017/2017-10-29-tefaf/four.jpg)

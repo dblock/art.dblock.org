@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Rae"
+date: 2017-11-21
+tags: [performance art]
+comments: true
+---
+Rae spent 30 days in a window on Ludlow. We paid him a visit.
+
+![]({{ site.url }}/images/posts/2017/2017-11-21-rae-bk/one.jpg)
+
+![]({{ site.url }}/images/posts/2017/2017-11-21-rae-bk/two.jpg)
+
+![]({{ site.url }}/images/posts/2017/2017-11-21-rae-bk/three.jpg)
+
+![]({{ site.url }}/images/posts/2017/2017-11-21-rae-bk/four.jpg)
+
+

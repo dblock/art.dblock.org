@@ -2,7 +2,7 @@
 layout: post
 title: "Figure Drawing 2017 (January - June)"
 date: 2017-07-03
-tags: [figure drawing]
+tags: [drawing]
 comments: true
 ---
 ![]({{ site.url }}/images/posts/2017/2017-07-03-figure-drawing/2017-03-26-two.jpg)
