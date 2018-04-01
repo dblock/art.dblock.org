@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Slime"
+date: 2017-12-17
+tags: [kids]
+comments: true
+---
+![]({{ site.url }}/images/posts/2017/2017-12-17-slime/before.jpg)
+
+![]({{ site.url }}/images/posts/2017/2017-12-17-slime/after.jpg)
+

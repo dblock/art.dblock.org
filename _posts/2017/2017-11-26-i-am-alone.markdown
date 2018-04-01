@@ -1,0 +1,9 @@
+---
+layout: post
+title: "I Am Alone"
+date: 2017-11-26
+tags: [poetry, kids]
+comments: true
+---
+![]({{ site.url }}/images/posts/2017/2017-11-26-i-am-alone/i-am-alone.jpg)
+
