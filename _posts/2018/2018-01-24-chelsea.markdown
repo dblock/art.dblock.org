@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Chelsea Galleries"
+date: 2018-01-24
+tags: [chelsea, galleries]
+comments: true
+---
+![]({{ site.url }}/images/posts/2018/2018-01-24-chelsea/wesselmann.jpg)
+
+![]({{ site.url }}/images/posts/2018/2018-01-24-chelsea/passing.jpg)
+
+![]({{ site.url }}/images/posts/2018/2018-01-24-chelsea/metal.jpg)
