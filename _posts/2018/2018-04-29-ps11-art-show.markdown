@@ -1,0 +1,11 @@
+---
+layout: post
+title: "PS11 Graffiti Art Show"
+date: 2018-04-29
+tags: [kids, art shows]
+comments: true
+---
+![]({{ site.url }}/images/posts/2018/2018-04-29-ps11-art-show/wall.jpg)
+
+![]({{ site.url }}/images/posts/2018/2018-04-29-ps11-art-show/mj.jpg)
+
