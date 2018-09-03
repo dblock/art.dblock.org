@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Celebration ofScience and Reason"
+title: "Celebration of Science and Reason"
 date: 2018-01-13
 tags: [shows]
 comments: true
