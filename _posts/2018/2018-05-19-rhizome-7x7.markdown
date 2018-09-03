@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Rhizome 7x7, 2018"
+date: 2018-05-19
+tags: [art events, conferences]
+comments: true
+---
+![]({{ site.url }}/images/posts/2018/2018-05-19-rhizome-7x7/one.jpg)
+
+![]({{ site.url }}/images/posts/2018/2018-05-19-rhizome-7x7/two.jpg)
+
+![]({{ site.url }}/images/posts/2018/2018-05-19-rhizome-7x7/three.jpg)
+
+![]({{ site.url }}/images/posts/2018/2018-05-19-rhizome-7x7/four.jpg)
+
+![]({{ site.url }}/images/posts/2018/2018-05-19-rhizome-7x7/five.jpg)
