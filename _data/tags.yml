@@ -3,16 +3,19 @@ architecture:
   count: 10
 art fairs:
   name: art fairs
-  count: 11
+  count: 14
 art shows:
   name: art shows
-  count: 41
+  count: 45
 artsy:
   name: artsy
-  count: 27
+  count: 31
 auctions:
   name: auctions
   count: 11
+books:
+  name: books
+  count: 5
 broadway:
   name: broadway
   count: 20
@@ -21,13 +24,16 @@ brooklyn:
   count: 6
 chelsea:
   name: chelsea
-  count: 7
+  count: 8
 digital art:
   name: digital art
   count: 17
 drawing:
   name: drawing
-  count: 31
+  count: 36
+figure drawing:
+  name: figure drawing
+  count: 7
 flyers:
   name: flyers
   count: 9
@@ -36,16 +42,16 @@ food:
   count: 5
 galleries:
   name: galleries
-  count: 19
+  count: 21
 jim joe:
   name: jim joe
   count: 6
 kids:
   name: kids
-  count: 12
+  count: 17
 loft:
   name: loft
-  count: 10
+  count: 11
 me me:
   name: me me
   count: 10
@@ -57,28 +63,28 @@ moma:
   count: 6
 museums:
   name: museums
-  count: 10
+  count: 11
 music:
   name: music
   count: 11
 new york:
   name: new york
-  count: 24
+  count: 26
 onsite:
   name: onsite
-  count: 8
+  count: 9
 parties:
   name: parties
-  count: 16
+  count: 19
 people:
   name: people
   count: 14
 performance art:
   name: performance art
-  count: 8
+  count: 9
 photography:
   name: photography
-  count: 89
+  count: 93
 plays:
   name: plays
   count: 36
@@ -87,7 +93,7 @@ posters:
   count: 7
 private collection:
   name: private collection
-  count: 23
+  count: 25
 sanguines:
   name: sanguines
   count: 26
@@ -96,16 +102,16 @@ seattle:
   count: 18
 shows:
   name: shows
-  count: 11
+  count: 15
 space virgins:
   name: space virgins
   count: 6
 street art:
   name: street art
-  count: 11
+  count: 13
 theatre:
   name: theatre
-  count: 55
+  count: 60
 travels:
   name: travels
-  count: 26
+  count: 28

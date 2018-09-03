@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Rome, Italy"
+date: 2018-07-23
+tags: [travels, italy, rome, photography]
+comments: true
+---
+<div class="thumbnail-grid"><a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2178.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2178.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2190.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2190.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2197.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2197.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2201.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2201.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2204.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2204.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2230.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2230.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2235.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2235.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2236.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2236.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2239.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2239.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2263.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2263.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2272.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2272.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2273.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2273.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2274.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2274.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2277.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2277.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2278.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2278.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2292.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2292.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2293.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2293.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2311.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2311.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2312.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2312.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2319.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2319.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2325.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2325.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2329.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2329.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2333.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2333.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2344.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2344.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2356.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2356.JPG" class="thumbnail"></a>
+
+</div>
