@@ -24,7 +24,7 @@ comments: true
 ---
   EOS
 
-  file.write '<div class="thumbnail-grid">'
+  file.write "<div class=\"thumbnail-grid\">\n\n"
   Dir["#{images_path}/*"].sort.each do |filename|
     filepath = "{{ site.url }}/images/posts/#{post_year}/#{post_name}/#{File.basename(filename)}"
     file.write "<a href=\"#{filepath}\"><img src=\"#{filepath}\" class=\"thumbnail\"></a>\n\n"

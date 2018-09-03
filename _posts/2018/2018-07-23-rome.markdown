@@ -5,7 +5,9 @@ date: 2018-07-23
 tags: [travels, italy, rome, photography]
 comments: true
 ---
-<div class="thumbnail-grid"><a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2178.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2178.JPG" class="thumbnail"></a>
+<div class="thumbnail-grid">
+
+<a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2178.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2178.JPG" class="thumbnail"></a>
 
 <a href="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2190.JPG"><img src="{{ site.url }}/images/posts/2018/2018-07-23-rome/DSC_2190.JPG" class="thumbnail"></a>
 

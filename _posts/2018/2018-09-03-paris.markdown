@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Terraces de Paris, France"
+date: 2018-09-03
+tags: [travels, photography, paris]
+comments: true
+---
+<div class="thumbnail-grid">
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2507.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2507.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2509.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2509.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2521.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2521.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2523.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2523.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2524.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2524.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2550.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2550.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2559.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2559.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2567.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2567.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2575.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2575.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2581.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2581.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2599.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2599.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2607.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2607.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2612.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2612.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2614.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2614.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2616.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2616.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2618.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2618.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2622.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2622.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2624.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2624.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2626.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2626.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2628.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2628.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2632.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2632.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2636.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2636.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2639.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2639.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2641.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2641.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2642.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2642.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2645.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2645.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2657.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2657.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2660.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2660.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2664.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2664.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2668.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2668.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2669.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2669.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2673.JPG"><img src="{{ site.url }}/images/posts/2018/2018-09-03-paris/DSC_2673.JPG" class="thumbnail"></a>
+
+</div>
