@@ -1,0 +1,162 @@
+---
+layout: post
+title: "Back to the USSR, Russia 2019"
+date: 2019-05-21
+tags: [russia, travels, photography]
+comments: true
+---
+In 2019 I went back to Russia, 28 years later. Moscow and St. Petersburg.
+
+<div class="thumbnail-grid">
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3085.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3085.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3093.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3093.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3095.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3095.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3098.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3098.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3102.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3102.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3107.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3107.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3114.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3114.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3117.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3117.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3121.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3121.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3125.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3125.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3129.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3129.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3133.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3133.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3143.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3143.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3162.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3162.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3168.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3168.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3172.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3172.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3174.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3174.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3176.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3176.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3182.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3182.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3195.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3195.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3200.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3200.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3201.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3201.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3204.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3204.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3210.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3210.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3211.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3211.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3212.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3212.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3219.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3219.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3228.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3228.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3236.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3236.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3241.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3241.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3244.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3244.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3250.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3250.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3251.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3251.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3256.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3256.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3260.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3260.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3265.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3265.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3277.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3277.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3305.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3305.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3307.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3307.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3310.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3310.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3319.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3319.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3321.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3321.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3333.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3333.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3338.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3338.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3345.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3345.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3347.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3347.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3348.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3348.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3351.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3351.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3354.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3354.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3359.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3359.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3360.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3360.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3364.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3364.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3381.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3381.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3389.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3389.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3393.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3393.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3401.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3401.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3403.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3403.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3406.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3406.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3416.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3416.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3423.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3423.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3425.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3425.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3447.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3447.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3470.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3470.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3481.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3481.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3482.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3482.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3489.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3489.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3493.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3493.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3499.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3499.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3500.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3500.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3510.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3510.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3517.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3517.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3519.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3519.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3530.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3530.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3549.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3549.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3556.JPG"><img src="{{ site.url }}/images/posts/2019/2019-05-21-russia/DSC_3556.JPG" class="thumbnail"></a>
+
+</div>
