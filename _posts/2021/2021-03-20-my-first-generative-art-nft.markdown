@@ -11,4 +11,4 @@ Last week, after listening to a conversation with [Osinachi](https://twitter.com
 
 <a target='_blank' href='https://opensea.io/collection/generative-sanguines'>![](https://raw.githubusercontent.com/dblock/p5art/master/shape.gif)</a>
 
-You can bid on the next shape [here](https://opensea.io/collection/generative-sanguines) until they sell out and see [this post](https://code.dblock.org/2021/03/20/how-i-minted-my-first-generative-art-nft.html) for technical details.
+You can buy one of the works [here](https://opensea.io/collection/generative-sanguines), until they sell out. **Update**: works 1-6 have sold as of March 24th, 2021. See [this post](https://code.dblock.org/2021/03/20/how-i-minted-my-first-generative-art-nft.html) for technical implementation details.
