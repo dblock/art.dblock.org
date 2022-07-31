@@ -1,0 +1,184 @@
+---
+layout: post
+title: "Brazil 2022"
+date: 2022-07-30
+tags: [brazil, travels, photography]
+comments: true
+---
+<div class="thumbnail-grid">
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4100.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4100.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4105.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4105.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4109.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4109.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4115.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4115.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4123.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4123.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4126.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4126.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4129.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4129.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4136.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4136.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4145.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4145.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4146.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4146.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4157.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4157.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4169.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4169.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4171.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4171.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4172.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4172.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4187.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4187.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4192.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4192.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4193.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4193.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4196.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4196.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4208.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4208.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4213.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4213.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4218.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4218.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4224.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4224.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4227.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4227.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4230.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4230.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4248.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4248.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4253.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4253.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4255.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4255.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4256.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4256.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4266.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4266.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4267.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4267.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4271.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4271.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4292.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4292.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4302.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4302.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4313.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4313.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4316.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4316.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4323.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4323.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4326.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4326.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4332.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4332.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4335.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4335.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4342.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4342.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4352.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4352.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4354.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4354.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4357.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4357.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4365.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4365.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4369.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4369.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4371.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4371.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4376.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4376.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4378.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4378.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4379.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4379.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4398.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4398.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4411.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4411.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4420.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4420.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4427.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4427.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4428.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4428.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4430.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4430.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4435.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4435.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4437.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4437.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4439.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4439.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4443.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4443.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4447.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4447.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4451.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4451.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4482.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4482.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4484.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4484.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4487.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4487.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4497.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4497.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4508.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4508.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4514.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4514.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4518.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4518.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4521.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4521.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4533.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4533.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4534.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4534.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4541.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4541.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4551.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4551.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4553.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4553.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4555.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4555.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4559.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4559.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4561.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4561.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4576.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4576.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4578.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4578.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4579.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4579.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4580.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4580.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4581.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4581.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4582.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4582.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4584.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4584.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4585.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4585.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4588.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4588.jpg" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4591.jpg"><img src="{{ site.url }}/images/posts/2022/2022-07-30-brazil/dsc_4591.jpg" class="thumbnail"></a>
+
+</div>
