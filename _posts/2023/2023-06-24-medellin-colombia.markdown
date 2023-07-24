@@ -2,7 +2,7 @@
 layout: post
 title: "Medellín, Colombia"
 date: 2023-06-24
-tags: [colombia, travls, photography]
+tags: [colombia, travels, photography]
 comments: true
 ---
 <div class="thumbnail-grid">

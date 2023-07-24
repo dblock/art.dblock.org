@@ -6,10 +6,10 @@ art fairs:
   count: 14
 art shows:
   name: art shows
-  count: 45
+  count: 46
 artsy:
   name: artsy
-  count: 31
+  count: 32
 auctions:
   name: auctions
   count: 11
@@ -27,7 +27,7 @@ chelsea:
   count: 8
 digital art:
   name: digital art
-  count: 17
+  count: 18
 drawing:
   name: drawing
   count: 36
@@ -42,13 +42,13 @@ food:
   count: 5
 galleries:
   name: galleries
-  count: 21
+  count: 22
 jim joe:
   name: jim joe
   count: 6
 kids:
   name: kids
-  count: 17
+  count: 18
 loft:
   name: loft
   count: 11
@@ -84,7 +84,7 @@ performance art:
   count: 9
 photography:
   name: photography
-  count: 93
+  count: 98
 plays:
   name: plays
   count: 36
@@ -102,16 +102,16 @@ seattle:
   count: 18
 shows:
   name: shows
-  count: 15
+  count: 16
 space virgins:
   name: space virgins
   count: 6
 street art:
   name: street art
-  count: 13
+  count: 15
 theatre:
   name: theatre
-  count: 60
+  count: 61
 travels:
   name: travels
-  count: 28
+  count: 34
