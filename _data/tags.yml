@@ -84,7 +84,7 @@ performance art:
   count: 9
 photography:
   name: photography
-  count: 98
+  count: 101
 plays:
   name: plays
   count: 36
@@ -114,4 +114,4 @@ theatre:
   count: 61
 travels:
   name: travels
-  count: 34
+  count: 37
