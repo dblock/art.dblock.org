@@ -1,0 +1,146 @@
+---
+layout: post
+title: "Paris, France"
+date: 2024-04-13
+tags: [france, travels, photography]
+comments: true
+---
+<div class="thumbnail-grid">
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5744.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5744.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5760.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5760.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5766.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5766.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5777.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5777.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5782.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5782.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5785.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5785.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5788.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5788.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5800.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5800.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5802.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5802.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5804.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5804.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5809.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5809.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5811.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5811.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5816.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5816.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5819.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5819.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5823.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5823.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5825.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5825.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5833.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5833.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5839.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5839.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5842.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5842.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5847.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5847.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5855.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5855.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5858.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5858.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5862.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5862.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5864.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5864.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5867.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5867.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5869.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5869.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5872.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5872.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5884.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5884.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5886.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5886.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5888.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5888.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5889.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5889.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5892.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5892.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5893.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5893.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5899.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5899.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5901.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5901.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5907.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5907.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5908.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5908.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5909.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5909.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5910.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5910.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5912.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5912.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5915.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5915.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5917.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5917.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5919.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5919.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5946.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5946.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5976.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5976.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5977.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5977.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5978.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5978.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5980.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5980.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5982.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5982.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5992.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5992.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5996.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5996.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5999.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_5999.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6004.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6004.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6007.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6007.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6010.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6010.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6012.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6012.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6017.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6017.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6020.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6020.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6022.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6022.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6023.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6023.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6026.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6026.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6027.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6027.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6028.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6028.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6042.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6042.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6044.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6044.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6045.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6045.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6048.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6048.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6056.JPG"><img src="{{ site.url }}/images/posts/2024/2024-04-14-paris/DSC_6056.JPG" class="thumbnail"></a>
+
+</div>
