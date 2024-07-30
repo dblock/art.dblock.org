@@ -1,0 +1,348 @@
+---
+layout: post
+title: "Peru, 2024"
+date: 2024-07-06
+tags: [peru, travels]
+comments: true
+---
+Lima, Cusco, Aguas Calientes, Machu Picchu, Arequipa, Colca Canyon, etc.
+
+<div class="thumbnail-grid">
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6015.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6015.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6020.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6020.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6022.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6022.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6028.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6028.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6038.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6038.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6039.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6039.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6042.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6042.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6052.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6052.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6061.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6061.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6066.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6066.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6068.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6068.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6075.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6075.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6077.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6077.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6078.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6078.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6085.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6085.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6088.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6088.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6089.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6089.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6097.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6097.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6102.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6102.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6104.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6104.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6108.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6108.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6111.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6111.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6119.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6119.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6123.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6123.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6127.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6127.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6129.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6129.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6130.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6130.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6132.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6132.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6133.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6133.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6134.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6134.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6135.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6135.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6140.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6140.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6141.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6141.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6142.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6142.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6147.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6147.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6148.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6148.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6155.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6155.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6157.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6157.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6159.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6159.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6160.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6160.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6163.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6163.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6164.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6164.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6167.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6167.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6169.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6169.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6172.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6172.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6173.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6173.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6174.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6174.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6175.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6175.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6186.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6186.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6203.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6203.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6207.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6207.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6209.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6209.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6210.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6210.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6211.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6211.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6216.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6216.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6218.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6218.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6221.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6221.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6222.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6222.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6227.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6227.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6231.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6231.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6237.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6237.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6239.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6239.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6245.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6245.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6250.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6250.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6254.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6254.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6255.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6255.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6256.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6256.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6259.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6259.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6261.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6261.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6265.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6265.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6268.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6268.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6271.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6271.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6272.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6272.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6274.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6274.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6275.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6275.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6288.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6288.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6293.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6293.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6479.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6479.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6481.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6481.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6486.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6486.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6490.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6490.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6493.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6493.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6498.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6498.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6503.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6503.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6504.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6504.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6505.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6505.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6512.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6512.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6513.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6513.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6517.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6517.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6519.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6519.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6522.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6522.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6523.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6523.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6525.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6525.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6530.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6530.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6534.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6534.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6537.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6537.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6543.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6543.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6545.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6545.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6552.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6552.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6557.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6557.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6560.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6560.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6563.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6563.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6567.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6567.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6573.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6573.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6581.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6581.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6582.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6582.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6584.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6584.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6586.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6586.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6596.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6596.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6598.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6598.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6599.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6599.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6606.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6606.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6608.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6608.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6614.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6614.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6617.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6617.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6619.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6619.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6621.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6621.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6625.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6625.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6629.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6629.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6636.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6636.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6639.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6639.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6643.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6643.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6645.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6645.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6649.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6649.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6652.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6652.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6654.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6654.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6660.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6660.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6667.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6667.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6673.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6673.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6674.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6674.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6676.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6676.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6677.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6677.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6681.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6681.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6688.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6688.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6691.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6691.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6697.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6697.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6698.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6698.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6700.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6700.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6705.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6705.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6711.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6711.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6713.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6713.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6727.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6727.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6728.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6728.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6729.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6729.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6730.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6730.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6732.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6732.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6748.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6748.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6753.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6753.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6761.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6761.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6763.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6763.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6770.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6770.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6771.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6771.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6772.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6772.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6773.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6773.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6774.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6774.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6787.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6787.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6793.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6793.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6794.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6794.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6796.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6796.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6798.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6798.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6809.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6809.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6816.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6816.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6817.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6817.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6830.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6830.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6831.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6831.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6835.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6835.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6840.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6840.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6842.JPG"><img src="{{ site.url }}/images/posts/2024/2024-07-06-peru/DSC_6842.JPG" class="thumbnail"></a>
+
+</div>
