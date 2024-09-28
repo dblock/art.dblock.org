@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Budapest, Hungary"
+date: 2024-09-23
+tags: [travels, budapest]
+comments: true
+---
+<div class="thumbnail-grid">
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6849.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6849.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6869.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6869.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6876.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6876.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6877.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6877.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6882.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6882.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6887.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6887.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6895.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6895.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6897.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6897.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6899.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6899.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6900.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6900.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6901.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6901.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6904.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6904.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6917.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6917.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6924.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6924.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6925.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6925.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6928.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6928.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6930.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6930.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6934.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6934.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6942.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6942.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6944.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6944.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6945.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6945.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6947.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6947.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6950.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6950.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6954.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6954.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6960.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6960.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6962.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6962.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6963.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6963.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6972.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6972.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6978.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6978.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6989.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6989.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6996.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6996.JPG" class="thumbnail"></a>
+
+<br>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6902.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6902.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6915.JPG"><img src="{{ site.url }}/images/posts/2024/2024-09-23-budapest/DSC_6915.JPG" class="thumbnail"></a>
+
+</div>
