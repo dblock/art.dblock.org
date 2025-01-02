@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Rio de Janeiro and Paraty, Brazil"
+date: 2024-12-21
+tags: [travels, brazil]
+comments: true
+---
+<div class="thumbnail-grid">
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7007.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7007.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7023.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7023.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7035.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7035.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7057.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7057.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7059.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7059.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7060.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7060.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7062.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7062.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7064.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7064.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7067.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7067.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7068.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7068.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7071.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7071.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7073.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7073.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7074.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7074.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7079.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7079.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7085.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7085.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7090.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7090.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7097.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7097.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7102.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7102.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7122.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7122.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7125.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7125.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7126.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7126.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7127.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7127.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7135.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7135.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7139.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7139.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7161.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7161.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7171.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7171.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7179.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7179.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7185.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7185.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7190.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7190.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7203.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7203.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7214.JPG"><img src="{{ site.url }}/images/posts/2024/2024-12-21-brazil/DSC_7214.JPG" class="thumbnail"></a>
+
+</div>
