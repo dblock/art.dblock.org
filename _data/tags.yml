@@ -27,13 +27,13 @@ chelsea:
   count: 8
 digital art:
   name: digital art
-  count: 18
+  count: 22
 drawing:
   name: drawing
   count: 36
 figure drawing:
   name: figure drawing
-  count: 7
+  count: 11
 flyers:
   name: flyers
   count: 9
@@ -84,7 +84,7 @@ performance art:
   count: 9
 photography:
   name: photography
-  count: 101
+  count: 102
 plays:
   name: plays
   count: 36
@@ -102,7 +102,7 @@ seattle:
   count: 18
 shows:
   name: shows
-  count: 16
+  count: 17
 space virgins:
   name: space virgins
   count: 6
@@ -114,4 +114,4 @@ theatre:
   count: 61
 travels:
   name: travels
-  count: 37
+  count: 41
