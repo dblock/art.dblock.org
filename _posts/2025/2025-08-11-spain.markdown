@@ -1,0 +1,120 @@
+---
+layout: post
+title: "Barcelona and Madrid, Spain"
+date: 2025-08-11
+tags: [travels, spain]
+comments: true
+---
+<div class="thumbnail-grid">
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7228.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7228.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7247.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7247.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7250.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7250.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7254.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7254.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7259.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7259.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7264.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7264.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7265.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7265.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7270.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7270.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7278.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7278.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7287.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7287.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7290.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7290.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7294.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7294.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7307.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7307.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7310.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7310.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7315.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7315.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7317.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7317.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7321.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7321.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7327.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7327.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7328.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7328.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7330.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7330.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7334.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7334.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7336.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7336.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7344.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7344.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7345.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7345.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7350.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7350.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7354.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7354.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7365.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7365.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7372.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7372.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7374.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7374.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7375.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7375.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7377.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7377.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7378.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7378.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7386.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7386.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7420.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7420.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7423.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7423.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7434.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7434.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7441.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7441.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7442.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7442.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7448.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7448.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7466.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7466.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7469.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7469.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7472.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7472.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7478.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7478.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7480.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7480.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7483.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7483.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7493.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7493.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7496.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7496.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7507.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7507.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7508.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7508.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7510.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7510.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7516.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7516.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7522.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7522.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7524.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7524.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7527.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7527.JPG" class="thumbnail"></a>
+
+<a href="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7535.JPG"><img src="{{ site.url }}/images/posts/2025/2025-08-11-spain/DSC_7535.JPG" class="thumbnail"></a>
+
+</div>
