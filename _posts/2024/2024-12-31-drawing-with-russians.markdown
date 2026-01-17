@@ -29,4 +29,4 @@ comments: true
 
 ![]({{ site.url }}/images/posts/2024/2024-12-31-drawing-with-russians/2024-12-05-drawing-with-russians-42.jpg)
 
-&lt; [Drawing with Russians 2023](/2023/12/31/drawing-with-russians.html)
+&lt; [Drawing with Russians 2023](/2023/12/31/drawing-with-russians.html) | [Drawing with Russians 2025](/2025/12/31/drawing-with-russians.html) &gt;
