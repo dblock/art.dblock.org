@@ -27,13 +27,16 @@ chelsea:
   count: 8
 digital art:
   name: digital art
-  count: 22
+  count: 23
 drawing:
   name: drawing
   count: 36
+dwr:
+  name: dwr
+  count: 5
 figure drawing:
   name: figure drawing
-  count: 11
+  count: 12
 flyers:
   name: flyers
   count: 9
@@ -69,7 +72,7 @@ music:
   count: 11
 new york:
   name: new york
-  count: 26
+  count: 27
 onsite:
   name: onsite
   count: 9
