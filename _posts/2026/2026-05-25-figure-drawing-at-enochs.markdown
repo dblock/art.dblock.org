@@ -4,6 +4,8 @@ title: "Figure Drawing at Enoch's"
 date: 2026-05-25
 tags: [figure drawing, new york]
 comments: true
+redirect_from:
+  - /drawing
 ---
 ![]({{ site.url }}/images/posts/2026/2026-05-25-figure-drawing-at-enochs/enochs-figure-drawing-2.jpg)
 

@@ -8,6 +8,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-redirect-from
 kramdown:
   input: GFM
 owner:
