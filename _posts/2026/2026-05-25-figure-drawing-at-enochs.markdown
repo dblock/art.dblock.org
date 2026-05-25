@@ -75,3 +75,6 @@ Your first poses should be full of movement. Face a different direction for each
 Take a couple of seconds to find each pose. Trust the organizer to start the timer once you've settled. Be still. For longer poses, it's okay to adjust and return to a pose if needed.
 
 ![]({{ site.url }}/images/posts/2026/2026-05-25-figure-drawing-at-enochs/enochs-figure-drawing.jpg)
+
+**Does this have anything to do with Drawing with Russians?**
+It does not, please see [drawingwithrussians.com](https://drawingwithrussians.com) for more information.
