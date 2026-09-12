@@ -54,7 +54,7 @@ Yes, pay what you can or even nothing, and please don't worry about it. We will 
 ### FAQ for Models
 
 **How can I sign up to pose?**
-Please e-mail Daniel at drawing[at]dblock[dot]org. Mention whether you have prior experience, attach a photo and/or your social media if you have any. Please note that we currently aren't looking for male models. You will receive some possible dates that are likely to be a few months from now. I will confirm and send you a calendar invite.
+Please e-mail Daniel at drawing[at]dblock[dot]org. Mention whether you have prior experience, attach a photo and/or your social media if you have any. You will receive some possible dates that are likely to be a few months from now. I will confirm and send you a calendar invite.
 
 **How much does posing pay?**
 We pay models $140 cash or Venmo, your choice. Since this is somewhat higher than other sessions, we don't have a tip jar.
@@ -75,6 +75,9 @@ Your first poses should be full of movement. Face a different direction for each
 Take a couple of seconds to find each pose. Trust the organizer to start the timer once you've settled. Be still. For longer poses, it's okay to adjust and return to a pose if needed.
 
 ![]({{ site.url }}/images/posts/2026/2026-05-25-figure-drawing-at-enochs/enochs-figure-drawing.jpg)
+
+**I've posed and it was great, why haven't you invited me back?**
+I am getting 1-2 inquiries a week for posing and want to give a chance to more people to try it out. At the time of writing this FAQ, drawing has different models booked 2-3 months in advance.
 
 **Does this have anything to do with Drawing with Russians?**
 It does not, please see [drawingwithrussians.com](https://drawingwithrussians.com) for more information.
