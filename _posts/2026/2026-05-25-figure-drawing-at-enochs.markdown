@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![]({{ site.url }}/images/posts/2026/2026-05-25-figure-drawing-at-enochs/enochs-figure-drawing-2.jpg)
 
-I organize weekly figure drawing sessions at [Enoch's Arts & Coffee](http://enochs.nyc/figure-drawing) in Manhattan. Drawing is every Monday from 6:30–9:00 PM-ish.
+I organize [weekly figure drawing sessions](https://posebook.dblock.org/programs/figure-drawing-mondays-at-enochs) at [Enoch's Arts & Coffee](http://enochs.nyc/figure-drawing) in Manhattan. Drawing is every Monday from 6:30–9:00 PM-ish.
 
 **Where:** Enoch's Arts & Coffee ([map](https://maps.app.goo.gl/TcckbWXrC7MSSEMv6)), 480 10th Avenue, New York, NY 10018 (A/C/E and 7 trains)
 
@@ -54,7 +54,7 @@ Yes, pay what you can or even nothing, and please don't worry about it. We will 
 ### FAQ for Models
 
 **How can I sign up to pose?**
-Please e-mail Daniel at drawing[at]dblock[dot]org. Mention whether you have prior experience, attach a photo and/or your social media if you have any. You will receive some possible dates that are likely to be a few months from now. I will confirm and send you a calendar invite.
+[Apply to model on Posebook](https://posebook.dblock.org/programs/figure-drawing-mondays-at-enochs/application_registration/new). You can also e-mail Daniel at drawing[at]dblock[dot]org. Mention whether you have prior experience, attach a photo and/or your social media if you have any. You will receive some possible dates that are likely to be a few months from now. I will confirm and send you a calendar invite.
 
 **How much does posing pay?**
 We pay models $140 cash or Venmo, your choice. Since this is somewhat higher than other sessions, we don't have a tip jar.
