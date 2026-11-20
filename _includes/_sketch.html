@@ -1,0 +1,2 @@
+{%- assign sketch_parts = include.post.content | split: '<img src="' -%}
+{%- if sketch_parts.size > 1 %} data-sketch="{{ sketch_parts[1] | split: '"' | first }}"{% endif -%}

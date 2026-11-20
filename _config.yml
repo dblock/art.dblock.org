@@ -41,6 +41,7 @@ owner:
   objkt: tz1ivFsNqtfLTSDh7uzqJ6pArNRG13pkJt4a
   rarible: artdblockdotorg
   opensea: artdblockdotorg
+sketch_idle_seconds: 30
 paginate: 35
 suggest_url: https://github.com/dblock/art.dblock.org/issues/new
 google_custom_search: "015938957525977311805:cuw72ypmpmq"
